@@ -10,14 +10,6 @@
 
 [create-tree](https://donatso.github.io/family-chart/examples/create-tree/) > `src/components/data.json`
 
-### Convert csv to json data
-
-csv export from: [familyecho.com](https://www.familyecho.com/)
-
-```sh
-python3 convert.py
-```
-
 ### Project setup
 
 ```sh

@@ -1,146 +1,1176 @@
 [
   {
-    "id": "Q868",
+    "id": "0",
+    "rels": {
+      "father": "283d24e6-1168-4b33-a32c-c93061031421",
+      "mother": "72f39e23-949d-4a67-8671-c0f453200ec8"
+    },
     "data": {
-      "fn": "Aristotelis",
-      "ln": "",
-      "desc": "ancient Greek philosopher",
-      "label": "Aristotle",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg",
+      "first name": "Võ Văn Nhật",
+      "last name": "",
+      "birthday": "1991",
+      "avatar": "https://avatars.githubusercontent.com/u/2399731?v=4",
+      "gender": "M"
+    }
+  },
+  {
+    "id": "283d24e6-1168-4b33-a32c-c93061031421",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Nam",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "0",
+        "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
+        "7a6d1181-d59d-4915-ba15-9b34181aeacb"
+      ],
+      "spouses": [
+        "72f39e23-949d-4a67-8671-c0f453200ec8"
+      ],
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389"
+    }
+  },
+  {
+    "id": "72f39e23-949d-4a67-8671-c0f453200ec8",
+    "data": {
+      "gender": "F",
+      "first name": "Hoàng Thị Hồng",
+      "last name": "",
+      "birthday": "1972",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "283d24e6-1168-4b33-a32c-c93061031421"
+      ],
+      "children": [
+        "0",
+        "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
+        "7a6d1181-d59d-4915-ba15-9b34181aeacb"
+      ]
+    }
+  },
+  {
+    "id": "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Lệ",
+      "last name": "",
+      "birthday": "1992",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "283d24e6-1168-4b33-a32c-c93061031421",
+      "mother": "72f39e23-949d-4a67-8671-c0f453200ec8",
+      "spouses": [
+        "fb2761ec-7755-4e79-b8d2-12116ef35bef"
+      ],
+      "children": [
+        "88dc9341-2bf6-4432-b507-570625b90cfd",
+        "b8006b87-78b2-4755-9439-5fe791784623"
+      ]
+    }
+  },
+  {
+    "id": "7a6d1181-d59d-4915-ba15-9b34181aeacb",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Thu",
+      "last name": "",
+      "birthday": "1994",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "283d24e6-1168-4b33-a32c-c93061031421",
+      "mother": "72f39e23-949d-4a67-8671-c0f453200ec8"
+    }
+  },
+  {
+    "id": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
+    "data": {
+      "gender": "M",
+      "first name": "Quí",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"
+      ],
+      "children": [
+        "88dc9341-2bf6-4432-b507-570625b90cfd",
+        "b8006b87-78b2-4755-9439-5fe791784623"
+      ]
+    }
+  },
+  {
+    "id": "88dc9341-2bf6-4432-b507-570625b90cfd",
+    "data": {
+      "gender": "F",
+      "first name": "Thảo Ngân",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
+      "mother": "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"
+    }
+  },
+  {
+    "id": "b8006b87-78b2-4755-9439-5fe791784623",
+    "data": {
+      "gender": "F",
+      "first name": "Thảo Vy",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
+      "mother": "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"
+    }
+  },
+  {
+    "id": "6080d029-6c7c-41a9-8649-86719c5cd668",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Văn Lưu",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "children": [
+        "283d24e6-1168-4b33-a32c-c93061031421",
+        "d25b5c02-fa37-4775-a522-18837a60eb3c",
+        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
+        "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
+        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
+        "f4363379-16d6-47fe-9138-71f4d9eed09b",
+        "c61638ff-c435-407f-91d0-29a6bb2fba21"
+      ],
+      "spouses": [
+        "a5769fcc-4e43-4af6-b537-673f28b2d389",
+        "04980029-2058-4750-a057-4f0233c5ec74"
+      ]
+    }
+  },
+  {
+    "id": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+    "data": {
+      "gender": "F",
+      "first name": "Dương Thị Ngọt",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "6080d029-6c7c-41a9-8649-86719c5cd668"
+      ],
+      "children": [
+        "283d24e6-1168-4b33-a32c-c93061031421",
+        "d25b5c02-fa37-4775-a522-18837a60eb3c",
+        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
+        "62753ad5-95e8-4b97-bf6d-ef08c60506b0"
+      ]
+    }
+  },
+  {
+    "id": "04980029-2058-4750-a057-4f0233c5ec74",
+    "data": {
+      "gender": "F",
+      "first name": "Loan",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "6080d029-6c7c-41a9-8649-86719c5cd668"
+      ],
+      "children": [
+        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
+        "f4363379-16d6-47fe-9138-71f4d9eed09b",
+        "c61638ff-c435-407f-91d0-29a6bb2fba21"
+      ]
+    }
+  },
+  {
+    "id": "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Hoa",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "04980029-2058-4750-a057-4f0233c5ec74",
+      "spouses": [
+        "19acc585-0639-4fe4-a227-a0787936d4b6"
+      ],
+      "children": [
+        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
+      ]
+    }
+  },
+  {
+    "id": "f4363379-16d6-47fe-9138-71f4d9eed09b",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Hòa",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "04980029-2058-4750-a057-4f0233c5ec74",
+      "spouses": [
+        "6ca9b14c-87a8-4961-86d8-4b514b722a21"
+      ],
+      "children": [
+        "054d9c82-782c-4391-8082-dde55abf5be4"
+      ]
+    }
+  },
+  {
+    "id": "c61638ff-c435-407f-91d0-29a6bb2fba21",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Thuận",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "04980029-2058-4750-a057-4f0233c5ec74",
+      "spouses": [
+        "aab4019d-1372-415f-8101-83b62e299401"
+      ],
+      "children": [
+        "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
+        "17008e6b-e86a-495c-9da1-f66ddac5fd64",
+        "4a873bdd-a818-4421-858e-28b3675736cc"
+      ]
+    }
+  },
+  {
+    "id": "d25b5c02-fa37-4775-a522-18837a60eb3c",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Thanh Hải",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "spouses": [
+        "502cb583-ab83-4a71-9a9b-0c5713ccaf22"
+      ],
+      "children": [
+        "ff1ad74b-4db9-456f-8c34-9138f743e653",
+        "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
+        "4c64d08f-d933-45f4-9c89-4f002b4fa567",
+        "27f4b741-270f-4ca1-93a8-bb0062ac5b13"
+      ]
+    }
+  },
+  {
+    "id": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Thị Bắc",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "spouses": [
+        "15db4c03-0d1b-4a88-a16b-8f8fe56916cc"
+      ],
+      "children": [
+        "c78d8b05-8de2-4203-86d0-176854806ba3",
+        "e0ca6498-12be-4099-826f-aa57094a3ebe",
+        "835e3707-7aa9-4e43-b152-e36d01d7ad51",
+        "787f6272-9386-4709-8feb-826310872037",
+        "fd1f117a-1c5a-4aeb-bcbb-194bd65d2da5"
+      ]
+    }
+  },
+  {
+    "id": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Cư",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "spouses": [
+        "9151766c-8ac3-47fa-94f3-e3df1ed55841"
+      ],
+      "children": [
+        "7c92a649-f19d-41e8-86e6-27dae4672683",
+        "196cc790-b20d-4040-ab20-3304087478f4",
+        "be23eed1-0e99-45e9-adbc-09caf13f8919",
+        "06b54683-922a-4e27-b2bb-aa71e18be753",
+        "fc88858f-f5dc-4365-a9fd-4b64fc86fd59"
+      ]
+    }
+  },
+  {
+    "id": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Thương",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "spouses": [
+        "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"
+      ],
+      "children": [
+        "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
+        "ac7695a8-3286-4daa-a05a-61044773a0fb",
+        "8312397c-6ae2-4494-b826-46e269bcf900"
+      ]
+    }
+  },
+  {
+    "id": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Thị Đông",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "spouses": [
+        "664dd6e0-d07e-4dda-bcf2-50bd46cab833"
+      ],
+      "children": [
+        "95d36321-181d-41ec-ab8c-80ccf07587f6",
+        "9c4cdb60-486e-4f4e-84b6-b7690976d357",
+        "e84965bf-0dc3-4397-9268-25765b92a38d"
+      ]
+    }
+  },
+  {
+    "id": "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Hữu Thông",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
+      "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
+      "spouses": [
+        "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"
+      ],
+      "children": [
+        "935b60df-9bd0-438a-be32-d4c44f31182a",
+        "11c3913b-33d5-4875-8030-217f01b4fb70"
+      ]
+    }
+  },
+  {
+    "id": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
+    "data": {
+      "gender": "F",
+      "first name": "Lê Thị Thỉu",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "d25b5c02-fa37-4775-a522-18837a60eb3c"
+      ],
+      "children": [
+        "ff1ad74b-4db9-456f-8c34-9138f743e653",
+        "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
+        "4c64d08f-d933-45f4-9c89-4f002b4fa567",
+        "27f4b741-270f-4ca1-93a8-bb0062ac5b13"
+      ]
+    }
+  },
+  {
+    "id": "ff1ad74b-4db9-456f-8c34-9138f743e653",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Thu Hằng",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
+      "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
+      "spouses": [
+        "6acfd0e1-226a-47e6-8cf7-eafa64887fdd"
+      ]
+    }
+  },
+  {
+    "id": "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Sỹ Hồng Bun",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
+      "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
+      "spouses": [
+        "6766e9bd-c3d6-475c-971b-e7990c197f3e"
+      ]
+    }
+  },
+  {
+    "id": "4c64d08f-d933-45f4-9c89-4f002b4fa567",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Thu Thơ",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
+      "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
+      "spouses": [
+        "de0974f0-0e6d-4ad5-a2a5-890628c677b6"
+      ]
+    }
+  },
+  {
+    "id": "27f4b741-270f-4ca1-93a8-bb0062ac5b13",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Như Quỳnh",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
+      "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
+      "spouses": [
+        "04b65bc1-7bf8-4929-aa94-3942f5b5b2c8"
+      ]
+    }
+  },
+  {
+    "id": "6acfd0e1-226a-47e6-8cf7-eafa64887fdd",
+    "data": {
+      "gender": "M",
+      "first name": "Sơn",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "ff1ad74b-4db9-456f-8c34-9138f743e653"
+      ]
+    }
+  },
+  {
+    "id": "6766e9bd-c3d6-475c-971b-e7990c197f3e",
+    "data": {
+      "gender": "F",
+      "first name": "Ái",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "d5cdea28-422c-41ea-b56a-0039d8d49b7a"
+      ]
+    }
+  },
+  {
+    "id": "de0974f0-0e6d-4ad5-a2a5-890628c677b6",
+    "data": {
+      "gender": "M",
+      "first name": "Tuyên",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "4c64d08f-d933-45f4-9c89-4f002b4fa567"
+      ]
+    }
+  },
+  {
+    "id": "04b65bc1-7bf8-4929-aa94-3942f5b5b2c8",
+    "data": {
+      "gender": "M",
+      "first name": "Khôi",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "27f4b741-270f-4ca1-93a8-bb0062ac5b13"
+      ]
+    }
+  },
+  {
+    "id": "c78d8b05-8de2-4203-86d0-176854806ba3",
+    "data": {
+      "gender": "F",
+      "first name": "Hà",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+      "spouses": [
+        "b81cd17d-0293-4f5c-8186-ff6b63e8e7df"
+      ]
+    }
+  },
+  {
+    "id": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+    "data": {
+      "gender": "F",
+      "first name": "Cọi",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+      ],
+      "children": [
+        "c78d8b05-8de2-4203-86d0-176854806ba3",
+        "e0ca6498-12be-4099-826f-aa57094a3ebe",
+        "835e3707-7aa9-4e43-b152-e36d01d7ad51",
+        "787f6272-9386-4709-8feb-826310872037",
+        "fd1f117a-1c5a-4aeb-bcbb-194bd65d2da5"
+      ]
+    }
+  },
+  {
+    "id": "e0ca6498-12be-4099-826f-aa57094a3ebe",
+    "data": {
+      "gender": "F",
+      "first name": "Nhung",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+    }
+  },
+  {
+    "id": "835e3707-7aa9-4e43-b152-e36d01d7ad51",
+    "data": {
+      "gender": "F",
+      "first name": "Ba",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+    }
+  },
+  {
+    "id": "787f6272-9386-4709-8feb-826310872037",
+    "data": {
+      "gender": "M",
+      "first name": "Tùng",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+    }
+  },
+  {
+    "id": "fd1f117a-1c5a-4aeb-bcbb-194bd65d2da5",
+    "data": {
+      "gender": "M",
+      "first name": "Phùng",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+    }
+  },
+  {
+    "id": "b81cd17d-0293-4f5c-8186-ff6b63e8e7df",
+    "data": {
+      "gender": "M",
+      "first name": "Cơ",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "c78d8b05-8de2-4203-86d0-176854806ba3"
+      ]
+    }
+  },
+  {
+    "id": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+    "data": {
+      "gender": "F",
+      "first name": "Thê",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"
+      ],
+      "children": [
+        "7c92a649-f19d-41e8-86e6-27dae4672683",
+        "196cc790-b20d-4040-ab20-3304087478f4",
+        "be23eed1-0e99-45e9-adbc-09caf13f8919",
+        "06b54683-922a-4e27-b2bb-aa71e18be753",
+        "fc88858f-f5dc-4365-a9fd-4b64fc86fd59"
+      ]
+    }
+  },
+  {
+    "id": "7c92a649-f19d-41e8-86e6-27dae4672683",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Duy",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+      "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+      "spouses": [
+        "7e80341c-954e-409b-88f9-03fa94e9acbb"
+      ]
+    }
+  },
+  {
+    "id": "7e80341c-954e-409b-88f9-03fa94e9acbb",
+    "data": {
+      "gender": "F",
+      "first name": "Hà",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "7c92a649-f19d-41e8-86e6-27dae4672683"
+      ]
+    }
+  },
+  {
+    "id": "196cc790-b20d-4040-ab20-3304087478f4",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Khánh",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+      "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+      "spouses": [
+        "b9830aa3-015b-4384-a407-40ba5285e02a"
+      ]
+    }
+  },
+  {
+    "id": "b9830aa3-015b-4384-a407-40ba5285e02a",
+    "data": {
+      "gender": "F",
+      "first name": "Sáng",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "196cc790-b20d-4040-ab20-3304087478f4"
+      ]
+    }
+  },
+  {
+    "id": "be23eed1-0e99-45e9-adbc-09caf13f8919",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Sơn",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+      "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+      "spouses": [
+        "f140c5ca-c1d1-4b24-9b46-b333fc1845b5"
+      ]
+    }
+  },
+  {
+    "id": "f140c5ca-c1d1-4b24-9b46-b333fc1845b5",
+    "data": {
+      "gender": "F",
+      "first name": "Thiết",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "be23eed1-0e99-45e9-adbc-09caf13f8919"
+      ]
+    }
+  },
+  {
+    "id": "06b54683-922a-4e27-b2bb-aa71e18be753",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Xoa",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+      "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+      "spouses": [
+        "4cd66873-b6b1-4abf-8511-bb54e5ec0140"
+      ]
+    }
+  },
+  {
+    "id": "4cd66873-b6b1-4abf-8511-bb54e5ec0140",
+    "data": {
+      "gender": "M",
+      "first name": "Duy",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "06b54683-922a-4e27-b2bb-aa71e18be753"
+      ]
+    }
+  },
+  {
+    "id": "fc88858f-f5dc-4365-a9fd-4b64fc86fd59",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Đức Xuân",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
+      "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"
+    }
+  },
+  {
+    "id": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7",
+    "data": {
+      "gender": "M",
+      "first name": "Toản",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79"
+      ],
+      "children": [
+        "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
+        "ac7695a8-3286-4daa-a05a-61044773a0fb",
+        "8312397c-6ae2-4494-b826-46e269bcf900"
+      ]
+    }
+  },
+  {
+    "id": "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
+    "data": {
+      "gender": "F",
+      "first name": "Lê Thị Tuyết Trinh",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+      "father": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7",
+      "spouses": [
+        "67832e3a-e4bb-4a4e-8b00-b84a5359f5ba"
+      ]
+    }
+  },
+  {
+    "id": "67832e3a-e4bb-4a4e-8b00-b84a5359f5ba",
+    "data": {
+      "gender": "M",
+      "first name": "Hoài",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "5d427157-8cf1-42ea-b0af-6fe02de0c29d"
+      ]
+    }
+  },
+  {
+    "id": "ac7695a8-3286-4daa-a05a-61044773a0fb",
+    "data": {
+      "gender": "M",
+      "first name": "Lê Quý Đôn",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+      "father": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"
+    }
+  },
+  {
+    "id": "8312397c-6ae2-4494-b826-46e269bcf900",
+    "data": {
+      "gender": "F",
+      "first name": "Tiên",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+      "father": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"
+    }
+  },
+  {
+    "id": "95d36321-181d-41ec-ab8c-80ccf07587f6",
+    "data": {
+      "gender": "F",
+      "first name": "Trần Thị Phong",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
+      "father": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+    }
+  },
+  {
+    "id": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
+    "data": {
+      "gender": "F",
+      "first name": "Dương",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+      ],
+      "children": [
+        "95d36321-181d-41ec-ab8c-80ccf07587f6",
+        "9c4cdb60-486e-4f4e-84b6-b7690976d357",
+        "e84965bf-0dc3-4397-9268-25765b92a38d"
+      ]
+    }
+  },
+  {
+    "id": "9c4cdb60-486e-4f4e-84b6-b7690976d357",
+    "data": {
+      "gender": "F",
+      "first name": "Trần Thị Hà",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
+      "father": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+    }
+  },
+  {
+    "id": "e84965bf-0dc3-4397-9268-25765b92a38d",
+    "data": {
+      "gender": "M",
+      "first name": "Hoàng",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
+      "father": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+    }
+  },
+  {
+    "id": "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b",
+    "data": {
+      "gender": "F",
+      "first name": "Yến",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "spouses": [
+        "62753ad5-95e8-4b97-bf6d-ef08c60506b0"
+      ],
+      "children": [
+        "935b60df-9bd0-438a-be32-d4c44f31182a",
+        "11c3913b-33d5-4875-8030-217f01b4fb70"
+      ]
+    }
+  },
+  {
+    "id": "935b60df-9bd0-438a-be32-d4c44f31182a",
+    "data": {
+      "gender": "M",
+      "first name": "Võ Lâm Minh Thái",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "mother": "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b",
+      "father": "62753ad5-95e8-4b97-bf6d-ef08c60506b0"
+    }
+  },
+  {
+    "id": "11c3913b-33d5-4875-8030-217f01b4fb70",
+    "data": {
+      "gender": "F",
+      "first name": "Võ Thị Hồng Nhung",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
+      "mother": "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"
+    }
+  },
+  {
+    "id": "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0",
+    "data": {
+      "gender": "M",
+      "first name": "Huy",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
+    },
+    "rels": {
+      "father": "19acc585-0639-4fe4-a227-a0787936d4b6",
+      "mother": "f151a58f-d6b3-4b77-b8d1-c59061d14d6a"
+    }
+  },
+  {
+    "id": "19acc585-0639-4fe4-a227-a0787936d4b6",
+    "data": {
       "gender": "M"
     },
     "rels": {
-      "father": "Q3050463",
-      "spouses": ["Q462582", "Q1987698"],
-      "children": ["Q2217419"],
-      "mother": "0.0930183100255757"
-    },
-    "main": true
+      "spouses": [
+        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a"
+      ],
+      "children": [
+        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
+      ]
+    }
   },
   {
-    "id": "Q462582",
+    "id": "054d9c82-782c-4391-8082-dde55abf5be4",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Greek biologist and embryologist",
-      "label": "Pythias",
-      "image": null,
-      "gender": "F"
+      "gender": "M",
+      "first name": "Tuấn",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
-      "father": "Q948620",
-      "spouses": ["Q868"],
-      "children": [],
-      "mother": "0.7784747470919489"
-    },
-    "main": false
+      "father": "6ca9b14c-87a8-4961-86d8-4b514b722a21",
+      "mother": "f4363379-16d6-47fe-9138-71f4d9eed09b"
+    }
   },
   {
-    "id": "Q2217419",
+    "id": "6ca9b14c-87a8-4961-86d8-4b514b722a21",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Ancient Greek philosopher, son of Aristotle",
-      "label": "Nicomachus",
-      "image": null,
       "gender": "M"
     },
     "rels": {
-      "father": "Q868",
-      "mother": "Q1987698",
-      "spouses": [],
-      "children": []
-    },
-    "main": false
+      "spouses": [
+        "f4363379-16d6-47fe-9138-71f4d9eed09b"
+      ],
+      "children": [
+        "054d9c82-782c-4391-8082-dde55abf5be4"
+      ]
+    }
   },
   {
-    "id": "Q3050463",
+    "id": "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "father of Aristotle",
-      "label": "Nicomachus",
-      "image": null,
-      "gender": "M"
+      "gender": "F",
+      "first name": "Võ Thị Hoài Sương",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
-      "spouses": ["0.0930183100255757"],
-      "children": ["Q868", "Q4790690"]
-    },
-    "main": false
+      "mother": "aab4019d-1372-415f-8101-83b62e299401",
+      "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
+      "spouses": [
+        "a26ec9ac-102c-430f-8a63-d64c9ce0b80d"
+      ]
+    }
   },
   {
-    "id": "Q1987698",
+    "id": "aab4019d-1372-415f-8101-83b62e299401",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Aristotle's lover",
-      "label": "Herpyllis",
-      "image": null,
-      "gender": "F"
+      "gender": "F",
+      "first name": "Sen",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
-      "spouses": ["Q868"],
-      "children": ["Q2217419"]
-    },
-    "main": false
+      "spouses": [
+        "c61638ff-c435-407f-91d0-29a6bb2fba21"
+      ],
+      "children": [
+        "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
+        "17008e6b-e86a-495c-9da1-f66ddac5fd64",
+        "4a873bdd-a818-4421-858e-28b3675736cc"
+      ]
+    }
   },
   {
-    "id": "Q948620",
+    "id": "a26ec9ac-102c-430f-8a63-d64c9ce0b80d",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "Aristotle's father in law",
-      "label": "Hermias of Atarneus",
-      "image": null,
-      "gender": "M"
+      "gender": "M",
+      "first name": "Nhân",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
-      "spouses": ["0.7784747470919489"],
-      "children": ["Q462582"]
-    },
-    "main": false
+      "spouses": [
+        "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad"
+      ]
+    }
   },
   {
-    "id": "Q4790690",
+    "id": "17008e6b-e86a-495c-9da1-f66ddac5fd64",
     "data": {
-      "fn": "",
-      "ln": "",
-      "desc": "sister of Aristotle",
-      "label": "Arimneste",
-      "image": null,
-      "gender": "F"
+      "gender": "M",
+      "first name": "Võ Thị Hoài Thư",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
     "rels": {
-      "father": "Q3050463",
-      "spouses": [],
-      "children": [],
-      "mother": "0.0930183100255757"
-    },
-    "main": false
+      "mother": "aab4019d-1372-415f-8101-83b62e299401",
+      "father": "c61638ff-c435-407f-91d0-29a6bb2fba21"
+    }
   },
   {
-    "id": "0.0930183100255757",
-    "rels": {
-      "spouses": ["Q3050463"],
-      "children": ["Q868", "Q4790690"]
-    },
+    "id": "4a873bdd-a818-4421-858e-28b3675736cc",
     "data": {
-      "gender": "F"
+      "gender": "F",
+      "first name": "Võ Thị Hoài Thanh",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
-    "to_add": true,
-    "main": false
+    "rels": {
+      "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
+      "mother": "aab4019d-1372-415f-8101-83b62e299401",
+      "spouses": [
+        "691c9214-6560-4500-b28e-841302e2063f"
+      ]
+    }
   },
   {
-    "id": "0.7784747470919489",
-    "rels": {
-      "spouses": ["Q948620"],
-      "children": ["Q462582"]
-    },
+    "id": "691c9214-6560-4500-b28e-841302e2063f",
     "data": {
-      "gender": "F"
+      "gender": "M",
+      "first name": "Tú",
+      "last name": "",
+      "birthday": "",
+      "avatar": ""
     },
-    "to_add": true,
-    "main": false
+    "rels": {
+      "spouses": [
+        "4a873bdd-a818-4421-858e-28b3675736cc"
+      ]
+    }
   }
 ]

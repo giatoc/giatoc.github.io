@@ -1,7 +1,7 @@
 .f3 {
   height: 700px;
-  max-height: calc(100vh - 80px);
-  width: 900px;
+  max-height: 100%;
+  width: 100%;
   max-width: 100%;
   margin: auto;
   position: relative;

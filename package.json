@@ -1,5 +1,5 @@
 {
-  "name": "family-chart-vue",
+  "name": "gia-pha",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -46,5 +46,5 @@
     "d3js",
     "family-chart-vue"
   ],
-  "description": "family-chart usage for vue"
+  "description": "Gia phả phái Võ Văn"
 }
