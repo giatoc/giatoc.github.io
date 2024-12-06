@@ -1,34 +1,34 @@
 # Family Tree
 
-`Võ Văn`'s Family Tree
+`Vo Van`'s Family Tree
 
 * Install from:
 
-[donatso/family-chart](https://github.com/donatso/family-chart) > [vue](https://codesandbox.io/s/family-chart-vue-bsrv9?file=/src/components/FamilyChart.vue)
+[donatso/family-chart](https://github.com/donatso/family-chart) > [vue](https://codepen.io/donatso/pen/poMBjZe)
 
 * Create data:
 
-[create-tree](https://donatso.github.io/family-chart/examples/create-tree/) > `src/components/data.json`
+[create-tree](https://donatso.github.io/family-chart-doc/create-tree/) > `src/components/data.json`
 
-### Project setup
+## Project setup
 
 ```sh
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Compiles and hot-reloads for development
 
 ```sh
 NODE_OPTIONS=--openssl-legacy-provider yarn serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 
 ```sh
 yarn build
 ```
 
-### Lints and fixes files
+## Lints and fixes files
 
 ```sh
 yarn lint
