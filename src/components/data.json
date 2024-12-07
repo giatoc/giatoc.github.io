@@ -10,7 +10,7 @@
       "first name": "Nhật",
       "last name": "Võ Văn",
       "birthday": "1991",
-      "avatar": "public/avatar/nhatvv.jpeg"
+      "avatar": "/avatar/nhatvv.jpeg"
     }
   },
   {
@@ -20,7 +20,7 @@
       "first name": "Nam",
       "last name": "Võ Đức",
       "birthday": "1968",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "children": [
@@ -28,9 +28,7 @@
         "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
         "7a6d1181-d59d-4915-ba15-9b34181aeacb"
       ],
-      "spouses": [
-        "72f39e23-949d-4a67-8671-c0f453200ec8"
-      ],
+      "spouses": ["72f39e23-949d-4a67-8671-c0f453200ec8"],
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389"
     }
@@ -42,12 +40,10 @@
       "first name": "Hồng (Biểu)",
       "last name": "Hoàng Thị",
       "birthday": "1972",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "283d24e6-1168-4b33-a32c-c93061031421"
-      ],
+      "spouses": ["283d24e6-1168-4b33-a32c-c93061031421"],
       "children": [
         "nhatvv",
         "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
@@ -62,14 +58,12 @@
       "first name": "Lệ",
       "last name": "Võ Thị",
       "birthday": "1992",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
       "mother": "72f39e23-949d-4a67-8671-c0f453200ec8",
-      "spouses": [
-        "fb2761ec-7755-4e79-b8d2-12116ef35bef"
-      ],
+      "spouses": ["fb2761ec-7755-4e79-b8d2-12116ef35bef"],
       "children": [
         "88dc9341-2bf6-4432-b507-570625b90cfd",
         "b8006b87-78b2-4755-9439-5fe791784623"
@@ -83,7 +77,7 @@
       "first name": "Thu",
       "last name": "Võ Thị",
       "birthday": "1994",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
@@ -97,12 +91,10 @@
       "first name": "Quý",
       "last name": "",
       "birthday": "1990",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": [
-        "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"
-      ],
+      "spouses": ["a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"],
       "children": [
         "88dc9341-2bf6-4432-b507-570625b90cfd",
         "b8006b87-78b2-4755-9439-5fe791784623"
@@ -116,7 +108,7 @@
       "first name": "Ngân",
       "last name": "Thảo",
       "birthday": "2019",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
@@ -130,7 +122,7 @@
       "first name": "Vy",
       "last name": "Thảo",
       "birthday": "2021",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
@@ -144,7 +136,7 @@
       "first name": "Lưu",
       "last name": "Võ Đức",
       "birthday": "1930",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "children": [
@@ -174,12 +166,10 @@
       "first name": "Ngọt",
       "last name": "Dương Thị",
       "birthday": "1942",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "6080d029-6c7c-41a9-8649-86719c5cd668"
-      ],
+      "spouses": ["6080d029-6c7c-41a9-8649-86719c5cd668"],
       "children": [
         "283d24e6-1168-4b33-a32c-c93061031421",
         "d25b5c02-fa37-4775-a522-18837a60eb3c",
@@ -198,7 +188,7 @@
       "first name": "Loan",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -220,17 +210,13 @@
       "first name": "Hoa",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": [
-        "19acc585-0639-4fe4-a227-a0787936d4b6"
-      ],
-      "children": [
-        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
-      ]
+      "spouses": ["19acc585-0639-4fe4-a227-a0787936d4b6"],
+      "children": ["a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"]
     }
   },
   {
@@ -240,17 +226,13 @@
       "first name": "Hòa",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": [
-        "6ca9b14c-87a8-4961-86d8-4b514b722a21"
-      ],
-      "children": [
-        "054d9c82-782c-4391-8082-dde55abf5be4"
-      ]
+      "spouses": ["6ca9b14c-87a8-4961-86d8-4b514b722a21"],
+      "children": ["054d9c82-782c-4391-8082-dde55abf5be4"]
     }
   },
   {
@@ -260,14 +242,12 @@
       "first name": "Thuận",
       "last name": "Võ Đức ",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": [
-        "aab4019d-1372-415f-8101-83b62e299401"
-      ],
+      "spouses": ["aab4019d-1372-415f-8101-83b62e299401"],
       "children": [
         "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
         "17008e6b-e86a-495c-9da1-f66ddac5fd64",
@@ -282,14 +262,12 @@
       "first name": "Hải",
       "last name": "Võ Thanh",
       "birthday": "1959",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": [
-        "502cb583-ab83-4a71-9a9b-0c5713ccaf22"
-      ],
+      "spouses": ["502cb583-ab83-4a71-9a9b-0c5713ccaf22"],
       "children": [
         "ff1ad74b-4db9-456f-8c34-9138f743e653",
         "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -305,14 +283,12 @@
       "first name": "Bắc",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": [
-        "15db4c03-0d1b-4a88-a16b-8f8fe56916cc"
-      ],
+      "spouses": ["15db4c03-0d1b-4a88-a16b-8f8fe56916cc"],
       "children": [
         "c78d8b05-8de2-4203-86d0-176854806ba3",
         "e0ca6498-12be-4099-826f-aa57094a3ebe",
@@ -329,14 +305,12 @@
       "first name": "Cư",
       "last name": "Võ Đức",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": [
-        "9151766c-8ac3-47fa-94f3-e3df1ed55841"
-      ],
+      "spouses": ["9151766c-8ac3-47fa-94f3-e3df1ed55841"],
       "children": [
         "7c92a649-f19d-41e8-86e6-27dae4672683",
         "196cc790-b20d-4040-ab20-3304087478f4",
@@ -353,14 +327,12 @@
       "first name": "Thương",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": [
-        "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"
-      ],
+      "spouses": ["31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"],
       "children": [
         "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
         "ac7695a8-3286-4daa-a05a-61044773a0fb",
@@ -375,14 +347,12 @@
       "first name": "Đông",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": [
-        "664dd6e0-d07e-4dda-bcf2-50bd46cab833"
-      ],
+      "spouses": ["664dd6e0-d07e-4dda-bcf2-50bd46cab833"],
       "children": [
         "95d36321-181d-41ec-ab8c-80ccf07587f6",
         "9c4cdb60-486e-4f4e-84b6-b7690976d357",
@@ -397,14 +367,12 @@
       "first name": "Thông",
       "last name": "Võ Hữu",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": [
-        "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"
-      ],
+      "spouses": ["e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"],
       "children": [
         "935b60df-9bd0-438a-be32-d4c44f31182a",
         "11c3913b-33d5-4875-8030-217f01b4fb70"
@@ -418,12 +386,10 @@
       "first name": "Thỉu",
       "last name": "Lê Thị",
       "birthday": "1962",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "d25b5c02-fa37-4775-a522-18837a60eb3c"
-      ],
+      "spouses": ["d25b5c02-fa37-4775-a522-18837a60eb3c"],
       "children": [
         "ff1ad74b-4db9-456f-8c34-9138f743e653",
         "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -439,14 +405,12 @@
       "first name": "Hằng",
       "last name": "Võ Thị Thu",
       "birthday": "1983",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": [
-        "6acfd0e1-226a-47e6-8cf7-eafa64887fdd"
-      ]
+      "spouses": ["6acfd0e1-226a-47e6-8cf7-eafa64887fdd"]
     }
   },
   {
@@ -456,14 +420,12 @@
       "first name": "Bun",
       "last name": "Võ Sĩ Hồng",
       "birthday": "1985",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": [
-        "6766e9bd-c3d6-475c-971b-e7990c197f3e"
-      ]
+      "spouses": ["6766e9bd-c3d6-475c-971b-e7990c197f3e"]
     }
   },
   {
@@ -473,14 +435,12 @@
       "first name": "Thơ",
       "last name": "Võ Thị Thu",
       "birthday": "1989",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": [
-        "de0974f0-0e6d-4ad5-a2a5-890628c677b6"
-      ]
+      "spouses": ["de0974f0-0e6d-4ad5-a2a5-890628c677b6"]
     }
   },
   {
@@ -490,14 +450,12 @@
       "first name": "Quỳnh",
       "last name": "Võ Thị Như",
       "birthday": "1993",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": [
-        "04b65bc1-7bf8-4929-aa94-3942f5b5b2c8"
-      ]
+      "spouses": ["04b65bc1-7bf8-4929-aa94-3942f5b5b2c8"]
     }
   },
   {
@@ -507,12 +465,10 @@
       "first name": "Sơn",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "ff1ad74b-4db9-456f-8c34-9138f743e653"
-      ]
+      "spouses": ["ff1ad74b-4db9-456f-8c34-9138f743e653"]
     }
   },
   {
@@ -522,12 +478,10 @@
       "first name": "Ái",
       "last name": "Lê Thị",
       "birthday": "1985",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "d5cdea28-422c-41ea-b56a-0039d8d49b7a"
-      ]
+      "spouses": ["d5cdea28-422c-41ea-b56a-0039d8d49b7a"]
     }
   },
   {
@@ -537,12 +491,10 @@
       "first name": "Tuyên",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": [
-        "4c64d08f-d933-45f4-9c89-4f002b4fa567"
-      ]
+      "spouses": ["4c64d08f-d933-45f4-9c89-4f002b4fa567"]
     }
   },
   {
@@ -552,12 +504,10 @@
       "first name": "Khôi",
       "last name": "",
       "birthday": "1991",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": [
-        "27f4b741-270f-4ca1-93a8-bb0062ac5b13"
-      ]
+      "spouses": ["27f4b741-270f-4ca1-93a8-bb0062ac5b13"]
     }
   },
   {
@@ -567,14 +517,12 @@
       "first name": "Hà",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
       "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
-      "spouses": [
-        "b81cd17d-0293-4f5c-8186-ff6b63e8e7df"
-      ]
+      "spouses": ["b81cd17d-0293-4f5c-8186-ff6b63e8e7df"]
     }
   },
   {
@@ -584,12 +532,10 @@
       "first name": "Cọi",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
-      ],
+      "spouses": ["ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"],
       "children": [
         "c78d8b05-8de2-4203-86d0-176854806ba3",
         "e0ca6498-12be-4099-826f-aa57094a3ebe",
@@ -606,7 +552,7 @@
       "first name": "Nhung",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -620,7 +566,7 @@
       "first name": "Ba",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -634,7 +580,7 @@
       "first name": "Tùng",
       "last name": "",
       "birthday": "1990",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -648,7 +594,7 @@
       "first name": "Phùng",
       "last name": "",
       "birthday": "1992",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -662,12 +608,10 @@
       "first name": "Cơ",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": [
-        "c78d8b05-8de2-4203-86d0-176854806ba3"
-      ]
+      "spouses": ["c78d8b05-8de2-4203-86d0-176854806ba3"]
     }
   },
   {
@@ -677,12 +621,10 @@
       "first name": "Thê",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
-      "spouses": [
-        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"
-      ],
+      "spouses": ["6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"],
       "children": [
         "7c92a649-f19d-41e8-86e6-27dae4672683",
         "196cc790-b20d-4040-ab20-3304087478f4",
@@ -699,14 +641,12 @@
       "first name": "Duy",
       "last name": "Võ Đức",
       "birthday": "1987",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": [
-        "7e80341c-954e-409b-88f9-03fa94e9acbb"
-      ]
+      "spouses": ["7e80341c-954e-409b-88f9-03fa94e9acbb"]
     }
   },
   {
@@ -716,12 +656,10 @@
       "first name": "Hà",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "7c92a649-f19d-41e8-86e6-27dae4672683"
-      ]
+      "spouses": ["7c92a649-f19d-41e8-86e6-27dae4672683"]
     }
   },
   {
@@ -731,14 +669,12 @@
       "first name": "Khánh",
       "last name": "Võ Đức",
       "birthday": "1989",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": [
-        "b9830aa3-015b-4384-a407-40ba5285e02a"
-      ]
+      "spouses": ["b9830aa3-015b-4384-a407-40ba5285e02a"]
     }
   },
   {
@@ -748,12 +684,10 @@
       "first name": "Sáng",
       "last name": "",
       "birthday": "1991",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
-      "spouses": [
-        "196cc790-b20d-4040-ab20-3304087478f4"
-      ]
+      "spouses": ["196cc790-b20d-4040-ab20-3304087478f4"]
     }
   },
   {
@@ -763,14 +697,12 @@
       "first name": "Sơn",
       "last name": "Võ Đức",
       "birthday": "1990",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": [
-        "f140c5ca-c1d1-4b24-9b46-b333fc1845b5"
-      ]
+      "spouses": ["f140c5ca-c1d1-4b24-9b46-b333fc1845b5"]
     }
   },
   {
@@ -780,12 +712,10 @@
       "first name": "Thiết",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "be23eed1-0e99-45e9-adbc-09caf13f8919"
-      ]
+      "spouses": ["be23eed1-0e99-45e9-adbc-09caf13f8919"]
     }
   },
   {
@@ -795,14 +725,12 @@
       "first name": "Xoa",
       "last name": "Võ Thị",
       "birthday": "1994",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": [
-        "4cd66873-b6b1-4abf-8511-bb54e5ec0140"
-      ]
+      "spouses": ["4cd66873-b6b1-4abf-8511-bb54e5ec0140"]
     }
   },
   {
@@ -812,12 +740,10 @@
       "first name": "Duy",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "06b54683-922a-4e27-b2bb-aa71e18be753"
-      ]
+      "spouses": ["06b54683-922a-4e27-b2bb-aa71e18be753"]
     }
   },
   {
@@ -827,7 +753,7 @@
       "first name": "Xuân",
       "last name": "Võ Đức",
       "birthday": "1997",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -841,12 +767,10 @@
       "first name": "Toản",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79"
-      ],
+      "spouses": ["8f6a1805-202c-4bbb-bdc5-4a16afe64d79"],
       "children": [
         "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
         "ac7695a8-3286-4daa-a05a-61044773a0fb",
@@ -861,14 +785,12 @@
       "first name": "Trinh",
       "last name": "Lê Thị Tuyết",
       "birthday": "1993",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
       "father": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7",
-      "spouses": [
-        "67832e3a-e4bb-4a4e-8b00-b84a5359f5ba"
-      ]
+      "spouses": ["67832e3a-e4bb-4a4e-8b00-b84a5359f5ba"]
     }
   },
   {
@@ -878,12 +800,10 @@
       "first name": "Hoài",
       "last name": "",
       "birthday": "1989",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": [
-        "5d427157-8cf1-42ea-b0af-6fe02de0c29d"
-      ]
+      "spouses": ["5d427157-8cf1-42ea-b0af-6fe02de0c29d"]
     }
   },
   {
@@ -893,7 +813,7 @@
       "first name": "Đôn",
       "last name": "Lê Quý",
       "birthday": "1995",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
@@ -907,7 +827,7 @@
       "first name": "Tiên",
       "last name": "Lê Thị Mỹ",
       "birthday": "1997",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
@@ -921,7 +841,7 @@
       "first name": "Phong",
       "last name": "Trần Thị",
       "birthday": "1993",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -935,12 +855,10 @@
       "first name": "Dương",
       "last name": "Trần Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
-      ],
+      "spouses": ["dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"],
       "children": [
         "95d36321-181d-41ec-ab8c-80ccf07587f6",
         "9c4cdb60-486e-4f4e-84b6-b7690976d357",
@@ -955,7 +873,7 @@
       "first name": "Hà",
       "last name": "Trần Thị",
       "birthday": "1998",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -969,7 +887,7 @@
       "first name": "Hoàng",
       "last name": "Trần Văn",
       "birthday": "2005",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -983,12 +901,10 @@
       "first name": "Yến",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "62753ad5-95e8-4b97-bf6d-ef08c60506b0"
-      ],
+      "spouses": ["62753ad5-95e8-4b97-bf6d-ef08c60506b0"],
       "children": [
         "935b60df-9bd0-438a-be32-d4c44f31182a",
         "11c3913b-33d5-4875-8030-217f01b4fb70"
@@ -1002,7 +918,7 @@
       "first name": "Thái",
       "last name": "Võ Lâm Minh",
       "birthday": "1998",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b",
@@ -1016,7 +932,7 @@
       "first name": "Nhung",
       "last name": "Võ Thị Hồng",
       "birthday": "2001",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
@@ -1030,7 +946,7 @@
       "first name": "Huy",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "father": "19acc585-0639-4fe4-a227-a0787936d4b6",
@@ -1041,15 +957,11 @@
     "id": "19acc585-0639-4fe4-a227-a0787936d4b6",
     "data": {
       "gender": "M",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": [
-        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a"
-      ],
-      "children": [
-        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
-      ]
+      "spouses": ["f151a58f-d6b3-4b77-b8d1-c59061d14d6a"],
+      "children": ["a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"]
     }
   },
   {
@@ -1059,7 +971,7 @@
       "first name": "Tuấn",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6ca9b14c-87a8-4961-86d8-4b514b722a21",
@@ -1073,15 +985,11 @@
       "first name": "Cương",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "f4363379-16d6-47fe-9138-71f4d9eed09b"
-      ],
-      "children": [
-        "054d9c82-782c-4391-8082-dde55abf5be4"
-      ]
+      "spouses": ["f4363379-16d6-47fe-9138-71f4d9eed09b"],
+      "children": ["054d9c82-782c-4391-8082-dde55abf5be4"]
     }
   },
   {
@@ -1091,14 +999,12 @@
       "first name": "Sương",
       "last name": "Võ Thị Hoài",
       "birthday": "1984",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
-      "spouses": [
-        "a26ec9ac-102c-430f-8a63-d64c9ce0b80d"
-      ]
+      "spouses": ["a26ec9ac-102c-430f-8a63-d64c9ce0b80d"]
     }
   },
   {
@@ -1108,12 +1014,10 @@
       "first name": "Sen",
       "last name": "Lê Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "c61638ff-c435-407f-91d0-29a6bb2fba21"
-      ],
+      "spouses": ["c61638ff-c435-407f-91d0-29a6bb2fba21"],
       "children": [
         "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
         "17008e6b-e86a-495c-9da1-f66ddac5fd64",
@@ -1128,12 +1032,10 @@
       "first name": "Nhân",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": [
-        "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad"
-      ]
+      "spouses": ["a28e7c25-b3e1-4deb-ae9b-0b93a7232cad"]
     }
   },
   {
@@ -1143,14 +1045,12 @@
       "first name": "Thư",
       "last name": "Võ Sĩ Hoài ",
       "birthday": "1987",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
-      "spouses": [
-        "0fbde2de-dd21-4d59-9f28-def42d2623e9"
-      ]
+      "spouses": ["0fbde2de-dd21-4d59-9f28-def42d2623e9"]
     }
   },
   {
@@ -1160,14 +1060,12 @@
       "first name": "Thanh",
       "last name": "Võ Thị Hoài",
       "birthday": "1989",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
-      "spouses": [
-        "691c9214-6560-4500-b28e-841302e2063f"
-      ]
+      "spouses": ["691c9214-6560-4500-b28e-841302e2063f"]
     }
   },
   {
@@ -1177,12 +1075,10 @@
       "first name": "Tú",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": [
-        "4a873bdd-a818-4421-858e-28b3675736cc"
-      ]
+      "spouses": ["4a873bdd-a818-4421-858e-28b3675736cc"]
     }
   },
   {
@@ -1192,7 +1088,7 @@
       "first name": "Hoa",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "f0f39e5f-1310-4ed4-8fb0-e2a443cb038e",
@@ -1203,15 +1099,11 @@
     "id": "f0f39e5f-1310-4ed4-8fb0-e2a443cb038e",
     "data": {
       "gender": "M",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "04980029-2058-4750-a057-4f0233c5ec74"
-      ],
-      "children": [
-        "5108c1f8-be0a-4965-b306-095068d8ef52"
-      ]
+      "spouses": ["04980029-2058-4750-a057-4f0233c5ec74"],
+      "children": ["5108c1f8-be0a-4965-b306-095068d8ef52"]
     }
   },
   {
@@ -1221,12 +1113,10 @@
       "first name": "Huyền",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "17008e6b-e86a-495c-9da1-f66ddac5fd64"
-      ]
+      "spouses": ["17008e6b-e86a-495c-9da1-f66ddac5fd64"]
     }
   },
   {
@@ -1236,7 +1126,7 @@
       "first name": "Nghiêm",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "children": [
@@ -1248,9 +1138,7 @@
         "bad933f1-ca5d-4c83-92f0-c73d83472034",
         "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
       ],
-      "spouses": [
-        "88ca655f-5c83-46f3-b430-485f4894fe44"
-      ]
+      "spouses": ["88ca655f-5c83-46f3-b430-485f4894fe44"]
     }
   },
   {
@@ -1260,12 +1148,10 @@
       "first name": "Dảnh",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a"
-      ],
+      "spouses": ["6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a"],
       "children": [
         "6080d029-6c7c-41a9-8649-86719c5cd668",
         "ebcd9943-210b-43b4-900f-31eecd2207aa",
@@ -1284,14 +1170,12 @@
       "first name": "Yến",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": [
-        "bffc6531-a589-4025-b6f8-c5cf4d81f550"
-      ]
+      "spouses": ["bffc6531-a589-4025-b6f8-c5cf4d81f550"]
     }
   },
   {
@@ -1301,7 +1185,7 @@
       "first name": "Hiến",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1315,7 +1199,7 @@
       "first name": "Phong",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1329,7 +1213,7 @@
       "first name": "Toàn",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1343,14 +1227,12 @@
       "first name": "Hảo",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": [
-        "d98595ac-dd01-447f-a59f-fa41e381bf29"
-      ],
+      "spouses": ["d98595ac-dd01-447f-a59f-fa41e381bf29"],
       "children": [
         "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9",
         "547afa4e-e2c1-49b3-9af7-e6b27a12e28b",
@@ -1367,14 +1249,12 @@
       "first name": "Hiền",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": [
-        "e6491837-6f04-4a43-8a3f-aec78ed28507"
-      ],
+      "spouses": ["e6491837-6f04-4a43-8a3f-aec78ed28507"],
       "children": [
         "e85402aa-ac9c-4db0-99d0-98d84a77e6a0",
         "66a1438c-66cd-4fc7-a3b3-7012b4af9aa3",
@@ -1391,12 +1271,10 @@
       "first name": "San",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": [
-        "ebcd9943-210b-43b4-900f-31eecd2207aa"
-      ]
+      "spouses": ["ebcd9943-210b-43b4-900f-31eecd2207aa"]
     }
   },
   {
@@ -1406,12 +1284,10 @@
       "first name": "Nguyệt",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "bad933f1-ca5d-4c83-92f0-c73d83472034"
-      ],
+      "spouses": ["bad933f1-ca5d-4c83-92f0-c73d83472034"],
       "children": [
         "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9",
         "547afa4e-e2c1-49b3-9af7-e6b27a12e28b",
@@ -1428,14 +1304,12 @@
       "first name": "Hằng",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": [
-        "c6f12b0e-2acc-462c-932d-57caf9b6eb3b"
-      ]
+      "spouses": ["c6f12b0e-2acc-462c-932d-57caf9b6eb3b"]
     }
   },
   {
@@ -1445,12 +1319,10 @@
       "first name": "Mười",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": [
-        "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9"
-      ]
+      "spouses": ["c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9"]
     }
   },
   {
@@ -1460,7 +1332,7 @@
       "first name": "Tâm",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1474,14 +1346,12 @@
       "first name": "Quyết",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": [
-        "34e1f93d-3d8c-4410-b9ef-25a8992b9c1f"
-      ]
+      "spouses": ["34e1f93d-3d8c-4410-b9ef-25a8992b9c1f"]
     }
   },
   {
@@ -1491,12 +1361,10 @@
       "first name": "Nguyệt",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "fdc75d21-f9a1-46a1-ad92-0b7b4dca1d70"
-      ]
+      "spouses": ["fdc75d21-f9a1-46a1-ad92-0b7b4dca1d70"]
     }
   },
   {
@@ -1506,14 +1374,12 @@
       "first name": "Chiến",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": [
-        "086e0ed5-3866-4e96-a00e-2671d07fd20d"
-      ]
+      "spouses": ["086e0ed5-3866-4e96-a00e-2671d07fd20d"]
     }
   },
   {
@@ -1523,12 +1389,10 @@
       "first name": "Châu",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": [
-        "4b68c32b-0fd7-41c5-b687-360b05c57abf"
-      ]
+      "spouses": ["4b68c32b-0fd7-41c5-b687-360b05c57abf"]
     }
   },
   {
@@ -1538,14 +1402,12 @@
       "first name": "Khuyên",
       "last name": "Võ Thị Hồng",
       "birthday": "",
-      "avatar": "public/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": [
-        "a8304468-0e72-4730-b0e2-44b1a8fa5299"
-      ]
+      "spouses": ["a8304468-0e72-4730-b0e2-44b1a8fa5299"]
     }
   },
   {
@@ -1555,12 +1417,10 @@
       "first name": "Lực",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": [
-        "8a4ba35b-eaf3-4eb3-aa2d-a78ab036fb30"
-      ]
+      "spouses": ["8a4ba35b-eaf3-4eb3-aa2d-a78ab036fb30"]
     }
   },
   {
@@ -1570,12 +1430,10 @@
       "first name": "Niềm",
       "last name": "",
       "birthday": "",
-      "avatar": "public/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": [
-        "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
-      ],
+      "spouses": ["686e3b01-f2a9-4c3a-ba6e-3d928f532177"],
       "children": [
         "e85402aa-ac9c-4db0-99d0-98d84a77e6a0",
         "66a1438c-66cd-4fc7-a3b3-7012b4af9aa3",
@@ -1592,7 +1450,7 @@
       "first name": "Huy",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1606,7 +1464,7 @@
       "first name": "Hoàng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "public/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1620,7 +1478,7 @@
       "first name": "Hùng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "public/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1634,7 +1492,7 @@
       "first name": "Bé",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "public/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1648,7 +1506,7 @@
       "first name": "Hưng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "public/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",

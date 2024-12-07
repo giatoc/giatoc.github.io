@@ -1,3 +1,4 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/family-tree/dist/" : "/",
+  publicPath:
+    process.env.NODE_ENV === 'production' ? '/family-tree/dist/' : '/',
 };

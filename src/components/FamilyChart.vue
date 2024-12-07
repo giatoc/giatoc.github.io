@@ -7,7 +7,7 @@
 
 <script>
 import ft from './data.json';
-import f3 from "https://esm.sh/family-chart@0.0.0";
+import f3 from "./family-chart/dist/family-chart.js";
 import './family-chart.css';  // create file 'family-chart.css' in same directory, copy/paste css from examples/create-tree
 
 export default {
