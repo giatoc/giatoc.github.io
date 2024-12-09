@@ -28,7 +28,9 @@
         "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
         "7a6d1181-d59d-4915-ba15-9b34181aeacb"
       ],
-      "spouses": ["72f39e23-949d-4a67-8671-c0f453200ec8"],
+      "spouses": [
+        "72f39e23-949d-4a67-8671-c0f453200ec8"
+      ],
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389"
     }
@@ -43,7 +45,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["283d24e6-1168-4b33-a32c-c93061031421"],
+      "spouses": [
+        "283d24e6-1168-4b33-a32c-c93061031421"
+      ],
       "children": [
         "nhatvv",
         "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b",
@@ -63,7 +67,9 @@
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
       "mother": "72f39e23-949d-4a67-8671-c0f453200ec8",
-      "spouses": ["fb2761ec-7755-4e79-b8d2-12116ef35bef"],
+      "spouses": [
+        "fb2761ec-7755-4e79-b8d2-12116ef35bef"
+      ],
       "children": [
         "88dc9341-2bf6-4432-b507-570625b90cfd",
         "b8006b87-78b2-4755-9439-5fe791784623"
@@ -81,7 +87,10 @@
     },
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
-      "mother": "72f39e23-949d-4a67-8671-c0f453200ec8"
+      "mother": "72f39e23-949d-4a67-8671-c0f453200ec8",
+      "spouses": [
+        "d10695b7-92c7-4fa0-89f3-fdc85abafb6d"
+      ]
     }
   },
   {
@@ -94,7 +103,9 @@
       "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": ["a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"],
+      "spouses": [
+        "a7cbb3c2-2542-4e26-9c84-3cc239a9c76b"
+      ],
       "children": [
         "88dc9341-2bf6-4432-b507-570625b90cfd",
         "b8006b87-78b2-4755-9439-5fe791784623"
@@ -169,7 +180,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["6080d029-6c7c-41a9-8649-86719c5cd668"],
+      "spouses": [
+        "6080d029-6c7c-41a9-8649-86719c5cd668"
+      ],
       "children": [
         "283d24e6-1168-4b33-a32c-c93061031421",
         "d25b5c02-fa37-4775-a522-18837a60eb3c",
@@ -192,11 +205,9 @@
     },
     "rels": {
       "spouses": [
-        "6080d029-6c7c-41a9-8649-86719c5cd668",
-        "f0f39e5f-1310-4ed4-8fb0-e2a443cb038e"
+        "6080d029-6c7c-41a9-8649-86719c5cd668"
       ],
       "children": [
-        "5108c1f8-be0a-4965-b306-095068d8ef52",
         "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
         "f4363379-16d6-47fe-9138-71f4d9eed09b",
         "c61638ff-c435-407f-91d0-29a6bb2fba21"
@@ -215,8 +226,12 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": ["19acc585-0639-4fe4-a227-a0787936d4b6"],
-      "children": ["a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"]
+      "spouses": [
+        "19acc585-0639-4fe4-a227-a0787936d4b6"
+      ],
+      "children": [
+        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
+      ]
     }
   },
   {
@@ -231,8 +246,12 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": ["6ca9b14c-87a8-4961-86d8-4b514b722a21"],
-      "children": ["054d9c82-782c-4391-8082-dde55abf5be4"]
+      "spouses": [
+        "6ca9b14c-87a8-4961-86d8-4b514b722a21"
+      ],
+      "children": [
+        "054d9c82-782c-4391-8082-dde55abf5be4"
+      ]
     }
   },
   {
@@ -247,7 +266,9 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "04980029-2058-4750-a057-4f0233c5ec74",
-      "spouses": ["aab4019d-1372-415f-8101-83b62e299401"],
+      "spouses": [
+        "aab4019d-1372-415f-8101-83b62e299401"
+      ],
       "children": [
         "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
         "17008e6b-e86a-495c-9da1-f66ddac5fd64",
@@ -267,7 +288,9 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": ["502cb583-ab83-4a71-9a9b-0c5713ccaf22"],
+      "spouses": [
+        "502cb583-ab83-4a71-9a9b-0c5713ccaf22"
+      ],
       "children": [
         "ff1ad74b-4db9-456f-8c34-9138f743e653",
         "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -279,7 +302,7 @@
   {
     "id": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
     "data": {
-      "gender": "M",
+      "gender": "F",
       "first name": "Bắc",
       "last name": "Võ Thị",
       "birthday": "",
@@ -288,7 +311,9 @@
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": ["15db4c03-0d1b-4a88-a16b-8f8fe56916cc"],
+      "spouses": [
+        "15db4c03-0d1b-4a88-a16b-8f8fe56916cc"
+      ],
       "children": [
         "c78d8b05-8de2-4203-86d0-176854806ba3",
         "e0ca6498-12be-4099-826f-aa57094a3ebe",
@@ -310,7 +335,9 @@
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": ["9151766c-8ac3-47fa-94f3-e3df1ed55841"],
+      "spouses": [
+        "9151766c-8ac3-47fa-94f3-e3df1ed55841"
+      ],
       "children": [
         "7c92a649-f19d-41e8-86e6-27dae4672683",
         "196cc790-b20d-4040-ab20-3304087478f4",
@@ -332,7 +359,9 @@
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
-      "spouses": ["31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"],
+      "spouses": [
+        "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7"
+      ],
       "children": [
         "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
         "ac7695a8-3286-4daa-a05a-61044773a0fb",
@@ -352,7 +381,9 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": ["664dd6e0-d07e-4dda-bcf2-50bd46cab833"],
+      "spouses": [
+        "664dd6e0-d07e-4dda-bcf2-50bd46cab833"
+      ],
       "children": [
         "95d36321-181d-41ec-ab8c-80ccf07587f6",
         "9c4cdb60-486e-4f4e-84b6-b7690976d357",
@@ -372,7 +403,9 @@
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
-      "spouses": ["e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"],
+      "spouses": [
+        "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b"
+      ],
       "children": [
         "935b60df-9bd0-438a-be32-d4c44f31182a",
         "11c3913b-33d5-4875-8030-217f01b4fb70"
@@ -389,7 +422,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["d25b5c02-fa37-4775-a522-18837a60eb3c"],
+      "spouses": [
+        "d25b5c02-fa37-4775-a522-18837a60eb3c"
+      ],
       "children": [
         "ff1ad74b-4db9-456f-8c34-9138f743e653",
         "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -410,7 +445,9 @@
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": ["6acfd0e1-226a-47e6-8cf7-eafa64887fdd"]
+      "spouses": [
+        "6acfd0e1-226a-47e6-8cf7-eafa64887fdd"
+      ]
     }
   },
   {
@@ -425,7 +462,13 @@
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": ["6766e9bd-c3d6-475c-971b-e7990c197f3e"]
+      "spouses": [
+        "6766e9bd-c3d6-475c-971b-e7990c197f3e"
+      ],
+      "children": [
+        "7aa9b7a6-931f-4542-8c7d-579dd8e90969",
+        "c2c1290e-2fba-43f1-898b-0ee0e050677c"
+      ]
     }
   },
   {
@@ -440,7 +483,9 @@
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": ["de0974f0-0e6d-4ad5-a2a5-890628c677b6"]
+      "spouses": [
+        "de0974f0-0e6d-4ad5-a2a5-890628c677b6"
+      ]
     }
   },
   {
@@ -455,7 +500,9 @@
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
       "father": "d25b5c02-fa37-4775-a522-18837a60eb3c",
-      "spouses": ["04b65bc1-7bf8-4929-aa94-3942f5b5b2c8"]
+      "spouses": [
+        "04b65bc1-7bf8-4929-aa94-3942f5b5b2c8"
+      ]
     }
   },
   {
@@ -468,7 +515,9 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["ff1ad74b-4db9-456f-8c34-9138f743e653"]
+      "spouses": [
+        "ff1ad74b-4db9-456f-8c34-9138f743e653"
+      ]
     }
   },
   {
@@ -481,7 +530,13 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["d5cdea28-422c-41ea-b56a-0039d8d49b7a"]
+      "spouses": [
+        "d5cdea28-422c-41ea-b56a-0039d8d49b7a"
+      ],
+      "children": [
+        "7aa9b7a6-931f-4542-8c7d-579dd8e90969",
+        "c2c1290e-2fba-43f1-898b-0ee0e050677c"
+      ]
     }
   },
   {
@@ -494,7 +549,9 @@
       "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": ["4c64d08f-d933-45f4-9c89-4f002b4fa567"]
+      "spouses": [
+        "4c64d08f-d933-45f4-9c89-4f002b4fa567"
+      ]
     }
   },
   {
@@ -507,7 +564,9 @@
       "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": ["27f4b741-270f-4ca1-93a8-bb0062ac5b13"]
+      "spouses": [
+        "27f4b741-270f-4ca1-93a8-bb0062ac5b13"
+      ]
     }
   },
   {
@@ -522,20 +581,24 @@
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
       "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
-      "spouses": ["b81cd17d-0293-4f5c-8186-ff6b63e8e7df"]
+      "spouses": [
+        "b81cd17d-0293-4f5c-8186-ff6b63e8e7df"
+      ]
     }
   },
   {
     "id": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
     "data": {
-      "gender": "F",
+      "gender": "M",
       "first name": "Cọi",
       "last name": "Lê Văn",
       "birthday": "",
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"],
+      "spouses": [
+        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+      ],
       "children": [
         "c78d8b05-8de2-4203-86d0-176854806ba3",
         "e0ca6498-12be-4099-826f-aa57094a3ebe",
@@ -556,7 +619,10 @@
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
-      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+      "spouses": [
+        "6978a805-bb41-41f4-a3a7-839b434d4fe5"
+      ]
     }
   },
   {
@@ -570,7 +636,10 @@
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
-      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+      "spouses": [
+        "2fe5c070-86b5-4aa4-9bfb-63075a2f873b"
+      ]
     }
   },
   {
@@ -598,7 +667,10 @@
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
-      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677"
+      "father": "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+      "spouses": [
+        "cf11fe7e-c10f-4e77-b4dc-886679983dc9"
+      ]
     }
   },
   {
@@ -611,7 +683,9 @@
       "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": ["c78d8b05-8de2-4203-86d0-176854806ba3"]
+      "spouses": [
+        "c78d8b05-8de2-4203-86d0-176854806ba3"
+      ]
     }
   },
   {
@@ -624,7 +698,9 @@
       "avatar": "/avatar/female-2.svg"
     },
     "rels": {
-      "spouses": ["6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"],
+      "spouses": [
+        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32"
+      ],
       "children": [
         "7c92a649-f19d-41e8-86e6-27dae4672683",
         "196cc790-b20d-4040-ab20-3304087478f4",
@@ -646,7 +722,9 @@
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": ["7e80341c-954e-409b-88f9-03fa94e9acbb"]
+      "spouses": [
+        "7e80341c-954e-409b-88f9-03fa94e9acbb"
+      ]
     }
   },
   {
@@ -659,7 +737,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["7c92a649-f19d-41e8-86e6-27dae4672683"]
+      "spouses": [
+        "7c92a649-f19d-41e8-86e6-27dae4672683"
+      ]
     }
   },
   {
@@ -674,7 +754,9 @@
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": ["b9830aa3-015b-4384-a407-40ba5285e02a"]
+      "spouses": [
+        "b9830aa3-015b-4384-a407-40ba5285e02a"
+      ]
     }
   },
   {
@@ -687,7 +769,9 @@
       "avatar": "/avatar/female-2.svg"
     },
     "rels": {
-      "spouses": ["196cc790-b20d-4040-ab20-3304087478f4"]
+      "spouses": [
+        "196cc790-b20d-4040-ab20-3304087478f4"
+      ]
     }
   },
   {
@@ -702,7 +786,9 @@
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": ["f140c5ca-c1d1-4b24-9b46-b333fc1845b5"]
+      "spouses": [
+        "f140c5ca-c1d1-4b24-9b46-b333fc1845b5"
+      ]
     }
   },
   {
@@ -715,7 +801,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["be23eed1-0e99-45e9-adbc-09caf13f8919"]
+      "spouses": [
+        "be23eed1-0e99-45e9-adbc-09caf13f8919"
+      ]
     }
   },
   {
@@ -730,7 +818,9 @@
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
       "father": "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-      "spouses": ["4cd66873-b6b1-4abf-8511-bb54e5ec0140"]
+      "spouses": [
+        "4cd66873-b6b1-4abf-8511-bb54e5ec0140"
+      ]
     }
   },
   {
@@ -743,7 +833,9 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["06b54683-922a-4e27-b2bb-aa71e18be753"]
+      "spouses": [
+        "06b54683-922a-4e27-b2bb-aa71e18be753"
+      ]
     }
   },
   {
@@ -770,7 +862,9 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["8f6a1805-202c-4bbb-bdc5-4a16afe64d79"],
+      "spouses": [
+        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79"
+      ],
       "children": [
         "5d427157-8cf1-42ea-b0af-6fe02de0c29d",
         "ac7695a8-3286-4daa-a05a-61044773a0fb",
@@ -790,7 +884,9 @@
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
       "father": "31fe0aee-13dc-4ac5-81c9-b2c3f2def0d7",
-      "spouses": ["67832e3a-e4bb-4a4e-8b00-b84a5359f5ba"]
+      "spouses": [
+        "67832e3a-e4bb-4a4e-8b00-b84a5359f5ba"
+      ]
     }
   },
   {
@@ -803,7 +899,9 @@
       "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": ["5d427157-8cf1-42ea-b0af-6fe02de0c29d"]
+      "spouses": [
+        "5d427157-8cf1-42ea-b0af-6fe02de0c29d"
+      ]
     }
   },
   {
@@ -845,7 +943,10 @@
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
-      "father": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+      "father": "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
+      "spouses": [
+        "6a430aa1-d852-4cfe-8227-4bd789238897"
+      ]
     }
   },
   {
@@ -858,7 +959,9 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"],
+      "spouses": [
+        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22"
+      ],
       "children": [
         "95d36321-181d-41ec-ab8c-80ccf07587f6",
         "9c4cdb60-486e-4f4e-84b6-b7690976d357",
@@ -904,7 +1007,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["62753ad5-95e8-4b97-bf6d-ef08c60506b0"],
+      "spouses": [
+        "62753ad5-95e8-4b97-bf6d-ef08c60506b0"
+      ],
       "children": [
         "935b60df-9bd0-438a-be32-d4c44f31182a",
         "11c3913b-33d5-4875-8030-217f01b4fb70"
@@ -950,7 +1055,10 @@
     },
     "rels": {
       "father": "19acc585-0639-4fe4-a227-a0787936d4b6",
-      "mother": "f151a58f-d6b3-4b77-b8d1-c59061d14d6a"
+      "mother": "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
+      "spouses": [
+        "b483cfb8-131c-4c9a-8502-6abf17b63efd"
+      ]
     }
   },
   {
@@ -960,8 +1068,12 @@
       "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": ["f151a58f-d6b3-4b77-b8d1-c59061d14d6a"],
-      "children": ["a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"]
+      "spouses": [
+        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a"
+      ],
+      "children": [
+        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
+      ]
     }
   },
   {
@@ -975,7 +1087,10 @@
     },
     "rels": {
       "father": "6ca9b14c-87a8-4961-86d8-4b514b722a21",
-      "mother": "f4363379-16d6-47fe-9138-71f4d9eed09b"
+      "mother": "f4363379-16d6-47fe-9138-71f4d9eed09b",
+      "spouses": [
+        "43a5cb4c-227b-4d45-998d-b926e106d5f6"
+      ]
     }
   },
   {
@@ -988,8 +1103,12 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["f4363379-16d6-47fe-9138-71f4d9eed09b"],
-      "children": ["054d9c82-782c-4391-8082-dde55abf5be4"]
+      "spouses": [
+        "f4363379-16d6-47fe-9138-71f4d9eed09b"
+      ],
+      "children": [
+        "054d9c82-782c-4391-8082-dde55abf5be4"
+      ]
     }
   },
   {
@@ -1004,7 +1123,9 @@
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
-      "spouses": ["a26ec9ac-102c-430f-8a63-d64c9ce0b80d"]
+      "spouses": [
+        "a26ec9ac-102c-430f-8a63-d64c9ce0b80d"
+      ]
     }
   },
   {
@@ -1017,7 +1138,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["c61638ff-c435-407f-91d0-29a6bb2fba21"],
+      "spouses": [
+        "c61638ff-c435-407f-91d0-29a6bb2fba21"
+      ],
       "children": [
         "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad",
         "17008e6b-e86a-495c-9da1-f66ddac5fd64",
@@ -1035,7 +1158,9 @@
       "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": ["a28e7c25-b3e1-4deb-ae9b-0b93a7232cad"]
+      "spouses": [
+        "a28e7c25-b3e1-4deb-ae9b-0b93a7232cad"
+      ]
     }
   },
   {
@@ -1050,7 +1175,9 @@
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
-      "spouses": ["0fbde2de-dd21-4d59-9f28-def42d2623e9"]
+      "spouses": [
+        "0fbde2de-dd21-4d59-9f28-def42d2623e9"
+      ]
     }
   },
   {
@@ -1065,7 +1192,9 @@
     "rels": {
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
-      "spouses": ["691c9214-6560-4500-b28e-841302e2063f"]
+      "spouses": [
+        "691c9214-6560-4500-b28e-841302e2063f"
+      ]
     }
   },
   {
@@ -1078,32 +1207,9 @@
       "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": ["4a873bdd-a818-4421-858e-28b3675736cc"]
-    }
-  },
-  {
-    "id": "5108c1f8-be0a-4965-b306-095068d8ef52",
-    "data": {
-      "gender": "F",
-      "first name": "Hoa",
-      "last name": "Võ Thị",
-      "birthday": "",
-      "avatar": "/avatar/female-2.svg"
-    },
-    "rels": {
-      "father": "f0f39e5f-1310-4ed4-8fb0-e2a443cb038e",
-      "mother": "04980029-2058-4750-a057-4f0233c5ec74"
-    }
-  },
-  {
-    "id": "f0f39e5f-1310-4ed4-8fb0-e2a443cb038e",
-    "data": {
-      "gender": "M",
-      "avatar": "/avatar/male-3.svg"
-    },
-    "rels": {
-      "spouses": ["04980029-2058-4750-a057-4f0233c5ec74"],
-      "children": ["5108c1f8-be0a-4965-b306-095068d8ef52"]
+      "spouses": [
+        "4a873bdd-a818-4421-858e-28b3675736cc"
+      ]
     }
   },
   {
@@ -1116,7 +1222,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["17008e6b-e86a-495c-9da1-f66ddac5fd64"]
+      "spouses": [
+        "17008e6b-e86a-495c-9da1-f66ddac5fd64"
+      ]
     }
   },
   {
@@ -1138,7 +1246,9 @@
         "bad933f1-ca5d-4c83-92f0-c73d83472034",
         "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
       ],
-      "spouses": ["88ca655f-5c83-46f3-b430-485f4894fe44"]
+      "spouses": [
+        "88ca655f-5c83-46f3-b430-485f4894fe44"
+      ]
     }
   },
   {
@@ -1151,7 +1261,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a"],
+      "spouses": [
+        "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a"
+      ],
       "children": [
         "6080d029-6c7c-41a9-8649-86719c5cd668",
         "ebcd9943-210b-43b4-900f-31eecd2207aa",
@@ -1175,7 +1287,9 @@
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": ["bffc6531-a589-4025-b6f8-c5cf4d81f550"]
+      "spouses": [
+        "bffc6531-a589-4025-b6f8-c5cf4d81f550"
+      ]
     }
   },
   {
@@ -1232,7 +1346,9 @@
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": ["d98595ac-dd01-447f-a59f-fa41e381bf29"],
+      "spouses": [
+        "d98595ac-dd01-447f-a59f-fa41e381bf29"
+      ],
       "children": [
         "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9",
         "547afa4e-e2c1-49b3-9af7-e6b27a12e28b",
@@ -1254,7 +1370,9 @@
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
       "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "spouses": ["e6491837-6f04-4a43-8a3f-aec78ed28507"],
+      "spouses": [
+        "e6491837-6f04-4a43-8a3f-aec78ed28507"
+      ],
       "children": [
         "e85402aa-ac9c-4db0-99d0-98d84a77e6a0",
         "66a1438c-66cd-4fc7-a3b3-7012b4af9aa3",
@@ -1274,7 +1392,9 @@
       "avatar": "/avatar/male-3.svg"
     },
     "rels": {
-      "spouses": ["ebcd9943-210b-43b4-900f-31eecd2207aa"]
+      "spouses": [
+        "ebcd9943-210b-43b4-900f-31eecd2207aa"
+      ]
     }
   },
   {
@@ -1287,7 +1407,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["bad933f1-ca5d-4c83-92f0-c73d83472034"],
+      "spouses": [
+        "bad933f1-ca5d-4c83-92f0-c73d83472034"
+      ],
       "children": [
         "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9",
         "547afa4e-e2c1-49b3-9af7-e6b27a12e28b",
@@ -1309,7 +1431,9 @@
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": ["c6f12b0e-2acc-462c-932d-57caf9b6eb3b"]
+      "spouses": [
+        "c6f12b0e-2acc-462c-932d-57caf9b6eb3b"
+      ]
     }
   },
   {
@@ -1322,7 +1446,9 @@
       "avatar": "/avatar/male-1.svg"
     },
     "rels": {
-      "spouses": ["c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9"]
+      "spouses": [
+        "c99cb5b6-23f2-4624-8bc8-b8ba6e7865d9"
+      ]
     }
   },
   {
@@ -1351,7 +1477,9 @@
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": ["34e1f93d-3d8c-4410-b9ef-25a8992b9c1f"]
+      "spouses": [
+        "34e1f93d-3d8c-4410-b9ef-25a8992b9c1f"
+      ]
     }
   },
   {
@@ -1364,7 +1492,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["fdc75d21-f9a1-46a1-ad92-0b7b4dca1d70"]
+      "spouses": [
+        "fdc75d21-f9a1-46a1-ad92-0b7b4dca1d70"
+      ]
     }
   },
   {
@@ -1379,7 +1509,9 @@
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": ["086e0ed5-3866-4e96-a00e-2671d07fd20d"]
+      "spouses": [
+        "086e0ed5-3866-4e96-a00e-2671d07fd20d"
+      ]
     }
   },
   {
@@ -1392,7 +1524,9 @@
       "avatar": "/avatar/female-1.svg"
     },
     "rels": {
-      "spouses": ["4b68c32b-0fd7-41c5-b687-360b05c57abf"]
+      "spouses": [
+        "4b68c32b-0fd7-41c5-b687-360b05c57abf"
+      ]
     }
   },
   {
@@ -1407,7 +1541,9 @@
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
       "father": "bad933f1-ca5d-4c83-92f0-c73d83472034",
-      "spouses": ["a8304468-0e72-4730-b0e2-44b1a8fa5299"]
+      "spouses": [
+        "a8304468-0e72-4730-b0e2-44b1a8fa5299"
+      ]
     }
   },
   {
@@ -1420,7 +1556,9 @@
       "avatar": "/avatar/male-2.svg"
     },
     "rels": {
-      "spouses": ["8a4ba35b-eaf3-4eb3-aa2d-a78ab036fb30"]
+      "spouses": [
+        "8a4ba35b-eaf3-4eb3-aa2d-a78ab036fb30"
+      ]
     }
   },
   {
@@ -1433,7 +1571,9 @@
       "avatar": "/avatar/female-3.svg"
     },
     "rels": {
-      "spouses": ["686e3b01-f2a9-4c3a-ba6e-3d928f532177"],
+      "spouses": [
+        "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      ],
       "children": [
         "e85402aa-ac9c-4db0-99d0-98d84a77e6a0",
         "66a1438c-66cd-4fc7-a3b3-7012b4af9aa3",
@@ -1454,7 +1594,10 @@
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
-      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177",
+      "spouses": [
+        "31237ade-8ed7-4451-9e1d-db844ffb6c0d"
+      ]
     }
   },
   {
@@ -1468,7 +1611,10 @@
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
-      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177",
+      "spouses": [
+        "c5f73170-dd29-4150-8dfa-cee779a6d085"
+      ]
     }
   },
   {
@@ -1482,7 +1628,10 @@
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
-      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177",
+      "spouses": [
+        "eb0820b5-543f-4b2c-9732-1f931337a109"
+      ]
     }
   },
   {
@@ -1496,7 +1645,10 @@
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
-      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177",
+      "spouses": [
+        "6439b408-3d5b-4b36-8953-a8525830439e"
+      ]
     }
   },
   {
@@ -1510,7 +1662,230 @@
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
-      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177"
+      "father": "686e3b01-f2a9-4c3a-ba6e-3d928f532177",
+      "spouses": [
+        "43778010-e026-46fe-8e68-2c29941e39bf"
+      ]
+    }
+  },
+  {
+    "id": "cf11fe7e-c10f-4e77-b4dc-886679983dc9",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/female-2.svg"
+    },
+    "rels": {
+      "spouses": [
+        "fd1f117a-1c5a-4aeb-bcbb-194bd65d2da5"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "2fe5c070-86b5-4aa4-9bfb-63075a2f873b",
+    "data": {
+      "gender": "M",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-1.svg"
+    },
+    "rels": {
+      "spouses": [
+        "835e3707-7aa9-4e43-b152-e36d01d7ad51"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "6978a805-bb41-41f4-a3a7-839b434d4fe5",
+    "data": {
+      "gender": "M",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-3.svg"
+    },
+    "rels": {
+      "spouses": [
+        "e0ca6498-12be-4099-826f-aa57094a3ebe"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "d10695b7-92c7-4fa0-89f3-fdc85abafb6d",
+    "data": {
+      "gender": "M",
+      "first name": "Hòa",
+      "last name": "Thái Văn",
+      "birthday": "",
+      "avatar": "/avatar/male-2.svg"
+    },
+    "rels": {
+      "spouses": [
+        "7a6d1181-d59d-4915-ba15-9b34181aeacb"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "7aa9b7a6-931f-4542-8c7d-579dd8e90969",
+    "data": {
+      "gender": "M",
+      "first name": "Dũng",
+      "last name": "Võ Lê Đức",
+      "birthday": "",
+      "avatar": "/avatar/male-3.svg"
+    },
+    "rels": {
+      "father": "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
+      "mother": "6766e9bd-c3d6-475c-971b-e7990c197f3e"
+    }
+  },
+  {
+    "id": "c2c1290e-2fba-43f1-898b-0ee0e050677c",
+    "data": {
+      "gender": "F",
+      "first name": "Duyên",
+      "last name": "Võ Mỹ",
+      "birthday": "",
+      "avatar": "/avatar/female-3.svg"
+    },
+    "rels": {
+      "father": "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
+      "mother": "6766e9bd-c3d6-475c-971b-e7990c197f3e"
+    }
+  },
+  {
+    "id": "6a430aa1-d852-4cfe-8227-4bd789238897",
+    "data": {
+      "gender": "M",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-2.svg"
+    },
+    "rels": {
+      "spouses": [
+        "95d36321-181d-41ec-ab8c-80ccf07587f6"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "31237ade-8ed7-4451-9e1d-db844ffb6c0d",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/female-3.svg"
+    },
+    "rels": {
+      "spouses": [
+        "e85402aa-ac9c-4db0-99d0-98d84a77e6a0"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "c5f73170-dd29-4150-8dfa-cee779a6d085",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-1.svg"
+    },
+    "rels": {
+      "spouses": [
+        "66a1438c-66cd-4fc7-a3b3-7012b4af9aa3"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "eb0820b5-543f-4b2c-9732-1f931337a109",
+    "data": {
+      "gender": "F",
+      "first name": "Xuân",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-1.svg"
+    },
+    "rels": {
+      "spouses": [
+        "7750356f-7302-4e98-9d53-91a4d93a8012"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "43778010-e026-46fe-8e68-2c29941e39bf",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/female-2.svg"
+    },
+    "rels": {
+      "spouses": [
+        "7be9f1c8-1e34-4623-8272-ec74f0a9ac13"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "6439b408-3d5b-4b36-8953-a8525830439e",
+    "data": {
+      "gender": "M",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/male-1.svg"
+    },
+    "rels": {
+      "spouses": [
+        "f135dcf5-40e4-4ff5-a253-aca448e98d0e"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "b483cfb8-131c-4c9a-8502-6abf17b63efd",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/female-1.svg"
+    },
+    "rels": {
+      "spouses": [
+        "a336b3f3-b1c0-44ff-bf3c-f5cea7c240c0"
+      ],
+      "children": []
+    }
+  },
+  {
+    "id": "43a5cb4c-227b-4d45-998d-b926e106d5f6",
+    "data": {
+      "gender": "F",
+      "first name": "",
+      "last name": "",
+      "birthday": "",
+      "avatar": "/avatar/female-2.svg"
+    },
+    "rels": {
+      "spouses": [
+        "054d9c82-782c-4391-8082-dde55abf5be4"
+      ],
+      "children": []
     }
   }
 ]
