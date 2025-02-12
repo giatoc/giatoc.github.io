@@ -1,5 +1,35 @@
 [
   {
+    "id": "6080d029-6c7c-41a9-8649-86719c5cd668",
+    "data": {
+      "gender": "M",
+      "first name": "Lưu",
+      "last name": "Võ Đức",
+      "birthday": "1930-2023",
+      "avatar": "/dist/avatar/male-3.svg"
+    },
+    "rels": {
+      "children": [
+        "283d24e6-1168-4b33-a32c-c93061031421",
+        "d25b5c02-fa37-4775-a522-18837a60eb3c",
+        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
+        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
+        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
+        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
+        "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
+        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
+        "f4363379-16d6-47fe-9138-71f4d9eed09b",
+        "c61638ff-c435-407f-91d0-29a6bb2fba21"
+      ],
+      "spouses": [
+        "a5769fcc-4e43-4af6-b537-673f28b2d389",
+        "04980029-2058-4750-a057-4f0233c5ec74"
+      ],
+      "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
+      "mother": "88ca655f-5c83-46f3-b430-485f4894fe44"
+    }
+  },
+  {
     "id": "nhatvv",
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
@@ -141,42 +171,12 @@
     }
   },
   {
-    "id": "6080d029-6c7c-41a9-8649-86719c5cd668",
-    "data": {
-      "gender": "M",
-      "first name": "Lưu",
-      "last name": "Võ Đức",
-      "birthday": "1930",
-      "avatar": "/dist/avatar/male-3.svg"
-    },
-    "rels": {
-      "children": [
-        "283d24e6-1168-4b33-a32c-c93061031421",
-        "d25b5c02-fa37-4775-a522-18837a60eb3c",
-        "ebdd60b8-a1f0-4ee6-861d-d58bb9b13677",
-        "6a1f38eb-d2d1-4a93-bc7a-6ae0f9268f32",
-        "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
-        "dfc34bd1-28dc-4a41-a23c-5fe4a9356f22",
-        "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
-        "f151a58f-d6b3-4b77-b8d1-c59061d14d6a",
-        "f4363379-16d6-47fe-9138-71f4d9eed09b",
-        "c61638ff-c435-407f-91d0-29a6bb2fba21"
-      ],
-      "spouses": [
-        "a5769fcc-4e43-4af6-b537-673f28b2d389",
-        "04980029-2058-4750-a057-4f0233c5ec74"
-      ],
-      "father": "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
-      "mother": "88ca655f-5c83-46f3-b430-485f4894fe44"
-    }
-  },
-  {
     "id": "a5769fcc-4e43-4af6-b537-673f28b2d389",
     "data": {
       "gender": "F",
       "first name": "Ngọt",
       "last name": "Dương Thị",
-      "birthday": "1942",
+      "birthday": "1942-2018",
       "avatar": "/dist/avatar/female-3.svg"
     },
     "rels": {
@@ -397,7 +397,7 @@
       "gender": "M",
       "first name": "Thông",
       "last name": "Võ Hữu",
-      "birthday": "",
+      "birthday": "1973",
       "avatar": "/dist/avatar/male-2.svg"
     },
     "rels": {
@@ -574,7 +574,7 @@
     "data": {
       "gender": "F",
       "first name": "Hà",
-      "last name": "",
+      "last name": "Lê Thị",
       "birthday": "",
       "avatar": "/dist/avatar/female-2.svg"
     },
@@ -613,7 +613,7 @@
     "data": {
       "gender": "F",
       "first name": "Nhung",
-      "last name": "",
+      "last name": "Lê Thị",
       "birthday": "",
       "avatar": "/dist/avatar/female-3.svg"
     },
@@ -630,7 +630,7 @@
     "data": {
       "gender": "F",
       "first name": "Ba",
-      "last name": "",
+      "last name": "Lê Thị",
       "birthday": "",
       "avatar": "/dist/avatar/female-1.svg"
     },
@@ -647,7 +647,7 @@
     "data": {
       "gender": "M",
       "first name": "Tùng",
-      "last name": "",
+      "last name": "Lê Thanh",
       "birthday": "1990",
       "avatar": "/dist/avatar/male-1.svg"
     },
@@ -661,7 +661,7 @@
     "data": {
       "gender": "M",
       "first name": "Phùng",
-      "last name": "",
+      "last name": "Lê Thanh",
       "birthday": "1992",
       "avatar": "/dist/avatar/male-2.svg"
     },
@@ -733,7 +733,7 @@
       "gender": "F",
       "first name": "Hà",
       "last name": "",
-      "birthday": "",
+      "birthday": "1993",
       "avatar": "/dist/avatar/female-1.svg"
     },
     "rels": {
@@ -1248,7 +1248,8 @@
       ],
       "spouses": [
         "88ca655f-5c83-46f3-b430-485f4894fe44"
-      ]
+      ],
+      "father": "477082da-a517-4525-890e-7b94cc06c1c6"
     }
   },
   {
@@ -1535,7 +1536,7 @@
       "gender": "F",
       "first name": "Khuyên",
       "last name": "Võ Thị Hồng",
-      "birthday": "",
+      "birthday": "1991",
       "avatar": "/dist/avatar/female-2.svg"
     },
     "rels": {
@@ -1722,7 +1723,7 @@
       "gender": "M",
       "first name": "Hòa",
       "last name": "Thái Văn",
-      "birthday": "",
+      "birthday": "1991",
       "avatar": "/dist/avatar/male-2.svg"
     },
     "rels": {
@@ -1886,6 +1887,36 @@
         "054d9c82-782c-4391-8082-dde55abf5be4"
       ],
       "children": []
+    }
+  },
+  {
+    "id": "477082da-a517-4525-890e-7b94cc06c1c6",
+    "data": {
+      "gender": "M",
+      "first name": "Sự",
+      "last name": "Võ Văn",
+      "birthday": "1883-1968",
+      "avatar": "/dist/avatar/male-2.svg"
+    },
+    "rels": {
+      "children": [
+        "6cdf551d-2d87-434e-aa7f-4d1ffa3fd73a",
+        "d721beae-f841-4f9b-9f2c-f50d40fe53a0"
+      ],
+      "spouses": []
+    }
+  },
+  {
+    "id": "d721beae-f841-4f9b-9f2c-f50d40fe53a0",
+    "data": {
+      "gender": "M",
+      "first name": "Cường",
+      "last name": "Võ Văn",
+      "birthday": "",
+      "avatar": "/dist/avatar/male-1.svg"
+    },
+    "rels": {
+      "father": "477082da-a517-4525-890e-7b94cc06c1c6"
     }
   }
 ]
