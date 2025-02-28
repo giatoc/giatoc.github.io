@@ -6,7 +6,7 @@
       "first name": "Lưu",
       "last name": "Võ Đức",
       "birthday": "1930-2023",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "children": [
@@ -40,7 +40,7 @@
       "first name": "Nhật",
       "last name": "Võ Văn",
       "birthday": "1991",
-      "avatar": "/dist/avatar/nhatvv.jpeg"
+      "avatar": "/avatar/nhatvv.jpeg"
     }
   },
   {
@@ -50,7 +50,7 @@
       "first name": "Nam",
       "last name": "Võ Đức",
       "birthday": "1968",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "children": [
@@ -72,7 +72,7 @@
       "first name": "Hồng (Biểu)",
       "last name": "Hoàng Thị",
       "birthday": "1972",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -92,7 +92,7 @@
       "first name": "Lệ",
       "last name": "Võ Thị",
       "birthday": "1992",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
@@ -113,7 +113,7 @@
       "first name": "Thu",
       "last name": "Võ Thị",
       "birthday": "1994",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "father": "283d24e6-1168-4b33-a32c-c93061031421",
@@ -130,7 +130,7 @@
       "first name": "Quý",
       "last name": "",
       "birthday": "1990",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -149,7 +149,7 @@
       "first name": "Ngân",
       "last name": "Thảo",
       "birthday": "2019",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
@@ -163,7 +163,7 @@
       "first name": "Vy",
       "last name": "Thảo",
       "birthday": "2021",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "fb2761ec-7755-4e79-b8d2-12116ef35bef",
@@ -177,7 +177,7 @@
       "first name": "Ngọt",
       "last name": "Dương Thị",
       "birthday": "1942-2018",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -201,7 +201,7 @@
       "first name": "Loan",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -221,7 +221,7 @@
       "first name": "Hoa",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -241,7 +241,7 @@
       "first name": "Hòa",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -261,7 +261,7 @@
       "first name": "Thuận",
       "last name": "Võ Đức ",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -283,7 +283,7 @@
       "first name": "Hải",
       "last name": "Võ Thanh",
       "birthday": "1959",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -306,7 +306,7 @@
       "first name": "Bắc",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
@@ -330,7 +330,7 @@
       "first name": "Cư",
       "last name": "Võ Đức",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
@@ -354,7 +354,7 @@
       "first name": "Thương",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "a5769fcc-4e43-4af6-b537-673f28b2d389",
@@ -376,7 +376,7 @@
       "first name": "Đông",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -398,7 +398,7 @@
       "first name": "Thông",
       "last name": "Võ Hữu",
       "birthday": "1973",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6080d029-6c7c-41a9-8649-86719c5cd668",
@@ -419,7 +419,7 @@
       "first name": "Thỉu",
       "last name": "Lê Thị",
       "birthday": "1962",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -440,7 +440,7 @@
       "first name": "Hằng",
       "last name": "Võ Thị Thu",
       "birthday": "1983",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
@@ -457,7 +457,7 @@
       "first name": "Bun",
       "last name": "Võ Sĩ Hồng",
       "birthday": "1985",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
@@ -478,7 +478,7 @@
       "first name": "Thơ",
       "last name": "Võ Thị Thu",
       "birthday": "1989",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
@@ -495,7 +495,7 @@
       "first name": "Quỳnh",
       "last name": "Võ Thị Như",
       "birthday": "1993",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "502cb583-ab83-4a71-9a9b-0c5713ccaf22",
@@ -512,7 +512,7 @@
       "first name": "Sơn",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -527,7 +527,7 @@
       "first name": "Ái",
       "last name": "Lê Thị",
       "birthday": "1985",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -546,7 +546,7 @@
       "first name": "Tuyên",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -561,7 +561,7 @@
       "first name": "Khôi",
       "last name": "",
       "birthday": "1991",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -576,7 +576,7 @@
       "first name": "Hà",
       "last name": "Lê Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -593,7 +593,7 @@
       "first name": "Cọi",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -615,7 +615,7 @@
       "first name": "Nhung",
       "last name": "Lê Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -632,7 +632,7 @@
       "first name": "Ba",
       "last name": "Lê Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -649,7 +649,7 @@
       "first name": "Tùng",
       "last name": "Lê Thanh",
       "birthday": "1990",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -663,7 +663,7 @@
       "first name": "Phùng",
       "last name": "Lê Thanh",
       "birthday": "1992",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "15db4c03-0d1b-4a88-a16b-8f8fe56916cc",
@@ -680,7 +680,7 @@
       "first name": "Cơ",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -695,7 +695,7 @@
       "first name": "Thê",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "spouses": [
@@ -717,7 +717,7 @@
       "first name": "Duy",
       "last name": "Võ Đức",
       "birthday": "1987",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -734,7 +734,7 @@
       "first name": "Hà",
       "last name": "",
       "birthday": "1993",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -749,7 +749,7 @@
       "first name": "Khánh",
       "last name": "Võ Đức",
       "birthday": "1989",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -766,7 +766,7 @@
       "first name": "Sáng",
       "last name": "",
       "birthday": "1991",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "spouses": [
@@ -781,7 +781,7 @@
       "first name": "Sơn",
       "last name": "Võ Đức",
       "birthday": "1990",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -798,7 +798,7 @@
       "first name": "Thiết",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -813,7 +813,7 @@
       "first name": "Xoa",
       "last name": "Võ Thị",
       "birthday": "1994",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -830,7 +830,7 @@
       "first name": "Duy",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -845,7 +845,7 @@
       "first name": "Xuân",
       "last name": "Võ Đức",
       "birthday": "1997",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "9151766c-8ac3-47fa-94f3-e3df1ed55841",
@@ -859,7 +859,7 @@
       "first name": "Toản",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -879,7 +879,7 @@
       "first name": "Trinh",
       "last name": "Lê Thị Tuyết",
       "birthday": "1993",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
@@ -896,7 +896,7 @@
       "first name": "Hoài",
       "last name": "",
       "birthday": "1989",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -911,7 +911,7 @@
       "first name": "Đôn",
       "last name": "Lê Quý",
       "birthday": "1995",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
@@ -925,7 +925,7 @@
       "first name": "Tiên",
       "last name": "Lê Thị Mỹ",
       "birthday": "1997",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "8f6a1805-202c-4bbb-bdc5-4a16afe64d79",
@@ -939,7 +939,7 @@
       "first name": "Phong",
       "last name": "Trần Thị",
       "birthday": "1993",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -956,7 +956,7 @@
       "first name": "Dương",
       "last name": "Trần Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -976,7 +976,7 @@
       "first name": "Hà",
       "last name": "Trần Thị",
       "birthday": "1998",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -990,7 +990,7 @@
       "first name": "Hoàng",
       "last name": "Trần Văn",
       "birthday": "2005",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "664dd6e0-d07e-4dda-bcf2-50bd46cab833",
@@ -1004,7 +1004,7 @@
       "first name": "Yến",
       "last name": "Trần Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1023,7 +1023,7 @@
       "first name": "Thái",
       "last name": "Võ Lâm Minh",
       "birthday": "1998",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "e7ea75f7-3c49-4534-a5c1-cb4bba5a845b",
@@ -1037,7 +1037,7 @@
       "first name": "Nhung",
       "last name": "Võ Thị Hồng",
       "birthday": "2001",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "father": "62753ad5-95e8-4b97-bf6d-ef08c60506b0",
@@ -1051,7 +1051,7 @@
       "first name": "Huy",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "father": "19acc585-0639-4fe4-a227-a0787936d4b6",
@@ -1065,7 +1065,7 @@
     "id": "19acc585-0639-4fe4-a227-a0787936d4b6",
     "data": {
       "gender": "M",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1083,7 +1083,7 @@
       "first name": "Tuấn",
       "last name": "Lê Anh",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "father": "6ca9b14c-87a8-4961-86d8-4b514b722a21",
@@ -1100,7 +1100,7 @@
       "first name": "Cương",
       "last name": "Lê Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1118,7 +1118,7 @@
       "first name": "Sương",
       "last name": "Võ Thị Hoài",
       "birthday": "1984",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
@@ -1135,7 +1135,7 @@
       "first name": "Sen",
       "last name": "Lê Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1155,7 +1155,7 @@
       "first name": "Nhân",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1170,7 +1170,7 @@
       "first name": "Thư",
       "last name": "Võ Sĩ Hoài ",
       "birthday": "1987",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "aab4019d-1372-415f-8101-83b62e299401",
@@ -1187,7 +1187,7 @@
       "first name": "Thanh",
       "last name": "Võ Thị Hoài",
       "birthday": "1989",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "father": "c61638ff-c435-407f-91d0-29a6bb2fba21",
@@ -1204,7 +1204,7 @@
       "first name": "Tú",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1219,7 +1219,7 @@
       "first name": "Huyền",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1234,7 +1234,7 @@
       "first name": "Nghiêm",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "children": [
@@ -1259,7 +1259,7 @@
       "first name": "Dảnh",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1283,7 +1283,7 @@
       "first name": "Yến",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1300,7 +1300,7 @@
       "first name": "Hiến",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1314,7 +1314,7 @@
       "first name": "Phong",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1328,7 +1328,7 @@
       "first name": "Toàn",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1342,7 +1342,7 @@
       "first name": "Hảo",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1366,7 +1366,7 @@
       "first name": "Hiền",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "88ca655f-5c83-46f3-b430-485f4894fe44",
@@ -1390,7 +1390,7 @@
       "first name": "San",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1405,7 +1405,7 @@
       "first name": "Nguyệt",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1427,7 +1427,7 @@
       "first name": "Hằng",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1444,7 +1444,7 @@
       "first name": "Mười",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1459,7 +1459,7 @@
       "first name": "Tâm",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1473,7 +1473,7 @@
       "first name": "Quyết",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1490,7 +1490,7 @@
       "first name": "Nguyệt",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1505,7 +1505,7 @@
       "first name": "Chiến",
       "last name": "Võ Thanh",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1522,7 +1522,7 @@
       "first name": "Châu",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1537,7 +1537,7 @@
       "first name": "Khuyên",
       "last name": "Võ Thị Hồng",
       "birthday": "1991",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "mother": "d98595ac-dd01-447f-a59f-fa41e381bf29",
@@ -1554,7 +1554,7 @@
       "first name": "Lực",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1569,7 +1569,7 @@
       "first name": "Niềm",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1591,7 +1591,7 @@
       "first name": "Huy",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1608,7 +1608,7 @@
       "first name": "Hoàng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1625,7 +1625,7 @@
       "first name": "Hùng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1642,7 +1642,7 @@
       "first name": "Bé",
       "last name": "Võ Thị",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1659,7 +1659,7 @@
       "first name": "Hưng",
       "last name": "Võ Quốc",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "mother": "e6491837-6f04-4a43-8a3f-aec78ed28507",
@@ -1676,7 +1676,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1692,7 +1692,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1708,7 +1708,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1724,7 +1724,7 @@
       "first name": "Hòa",
       "last name": "Thái Văn",
       "birthday": "1991",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1740,7 +1740,7 @@
       "first name": "Dũng",
       "last name": "Võ Lê Đức",
       "birthday": "",
-      "avatar": "/dist/avatar/male-3.svg"
+      "avatar": "/avatar/male-3.svg"
     },
     "rels": {
       "father": "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -1754,7 +1754,7 @@
       "first name": "Duyên",
       "last name": "Võ Mỹ",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "father": "d5cdea28-422c-41ea-b56a-0039d8d49b7a",
@@ -1768,7 +1768,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1784,7 +1784,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-3.svg"
+      "avatar": "/avatar/female-3.svg"
     },
     "rels": {
       "spouses": [
@@ -1800,7 +1800,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1816,7 +1816,7 @@
       "first name": "Xuân",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1832,7 +1832,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1848,7 +1848,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1864,7 +1864,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-1.svg"
+      "avatar": "/avatar/female-1.svg"
     },
     "rels": {
       "spouses": [
@@ -1880,7 +1880,7 @@
       "first name": "-",
       "last name": "",
       "birthday": "",
-      "avatar": "/dist/avatar/female-2.svg"
+      "avatar": "/avatar/female-2.svg"
     },
     "rels": {
       "spouses": [
@@ -1896,7 +1896,7 @@
       "first name": "Sự",
       "last name": "Võ Văn",
       "birthday": "1883-1968",
-      "avatar": "/dist/avatar/male-2.svg"
+      "avatar": "/avatar/male-2.svg"
     },
     "rels": {
       "children": [
@@ -1913,7 +1913,7 @@
       "first name": "Cường",
       "last name": "Võ Văn",
       "birthday": "",
-      "avatar": "/dist/avatar/male-1.svg"
+      "avatar": "/avatar/male-1.svg"
     },
     "rels": {
       "father": "477082da-a517-4525-890e-7b94cc06c1c6"

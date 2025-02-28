@@ -25,7 +25,7 @@ NODE_OPTIONS=--openssl-legacy-provider yarn serve
 ## Compiles and minifies for production
 
 ```sh
-yarn build
+yarn build && printf "rot.vn" > docs/CNAME
 ```
 
 ## Lints and fixes files
