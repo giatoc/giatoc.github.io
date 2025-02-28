@@ -25,7 +25,7 @@ NODE_OPTIONS=--openssl-legacy-provider yarn serve
 ## Compiles and minifies for production
 
 ```sh
-yarn build && mv dist docs
+yarn build
 ```
 
 ## Lints and fixes files
