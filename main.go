@@ -37,22 +37,50 @@ func main() {
 	json.Unmarshal([]byte(jsonData), &persons)
 
 	mID := map[string]string{}
+	mRelID := map[string]string{}
+	changeID := false
 	for _, p := range persons {
-		newID := convertID(p.Data.FirstName + p.Data.LastName)
-		if newID == "" || newID == "-" {
-			newID = p.ID
-		}
-		fmt.Printf("%s -> %s\n", p.ID, newID)
+		newID := p.ID
+		if changeID {
+			newID = convertID(p.Data.FirstName + p.Data.LastName)
+			if newID == "" || newID == "-" {
+				newID = p.ID
+			}
+			fmt.Printf("%s -> %s\n", p.ID, newID)
 
-		c := 0
-		sf := ""
-		for {
-			if _, ok := mID[newID+sf]; !ok {
-				mID[p.ID] = newID + sf
-				break
-			} else {
-				c += 1
-				sf = strconv.Itoa(c)
+			c := 0
+			sf := ""
+			for {
+				if _, ok := mID[newID+sf]; !ok {
+					mID[p.ID] = newID + sf
+					break
+				} else {
+					c += 1
+					sf = strconv.Itoa(c)
+				}
+			}
+		}
+
+		mID[p.ID] = newID
+		mRelID[p.Rels.Father] = p.Rels.Father
+		mRelID[p.Rels.Mother] = p.Rels.Mother
+		for _, s := range p.Rels.Spouses {
+			mRelID[s] = s
+		}
+		for _, c := range p.Rels.Children {
+			mRelID[c] = c
+		}
+	}
+
+	if len(mID) != len(mRelID) {
+		for k := range mID {
+			if _, ok := mRelID[k]; !ok {
+				fmt.Println("Missing ID", k)
+			}
+		}
+		for k := range mRelID {
+			if _, ok := mID[k]; !ok {
+				fmt.Println("Missing Rel ID", k)
 			}
 		}
 	}
@@ -71,15 +99,17 @@ func main() {
 		}
 	}
 
-	sort.Slice(persons, func(i, j int) bool {
-		if persons[i].ID == "luuvoduc" {
-			return true
-		}
-		return persons[i].Data.LastName > persons[j].Data.LastName
-	})
+	if changeID {
+		sort.Slice(persons, func(i, j int) bool {
+			if persons[i].ID == "luuvoduc" {
+				return true
+			}
+			return persons[i].Data.LastName > persons[j].Data.LastName
+		})
+		jsonData, _ = json.Marshal(persons)
+		os.WriteFile("src/components/data.json", jsonData, 0644)
+	}
 
-	jsonData, _ = json.Marshal(persons)
-	os.WriteFile("src/components/data.json", jsonData, 0644)
 }
 
 func convertID(name string) string {

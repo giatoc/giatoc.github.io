@@ -10,20 +10,20 @@
      },
      "rels":{
         "children":[
-           "namvoduc",
+           "hoavothi",
+           "hoavothi1",
+           "thuanvoduc",
            "haivothanh",
            "bacvothi",
            "cuvoduc",
+           "namvoduc",
            "thuongvothi",
            "dongvothi",
-           "thongvohuu",
-           "hoavothi1",
-           "hoavothi1",
-           "thuanvoduc"
+           "thongvohuu"
         ],
         "spouses":[
-           "ngotduongthi",
-           "loan"
+           "loan",
+           "ngotduongthi"
         ],
         "father":"nghiemvovan",
         "mother":"danh"
@@ -143,7 +143,7 @@
            "thuvothi"
         ],
         "spouses":[
-           "hong(bieu)hoangthi"
+           "honghoangthi"
         ],
         "father":"luuvoduc",
         "mother":"ngotduongthi"
@@ -186,45 +186,45 @@
      }
   },
   {
-     "id":"nhatvovan",
+     "id":"hienvovan",
      "data":{
         "gender":"M",
-        "first name":"Nhật",
+        "first name":"Hiến",
         "last name":"Võ Văn",
-        "birthday":"1991",
-        "avatar":"/avatar/nhatvv.jpeg"
+        "birthday":"",
+        "avatar":"/avatar/male-2.svg"
      },
      "rels":{
         "children":null,
-        "spouses":null,
-        "father":"namvoduc",
-        "mother":"hong(bieu)hoangthi"
+        "spouses":[
+           "hienwife"
+        ],
+        "father":"nghiemvovan",
+        "mother":"danh"
      }
   },
   {
-     "id":"nghiemvovan",
+     "id":"hienvovan1",
      "data":{
         "gender":"M",
-        "first name":"Nghiêm",
+        "first name":"Hiền",
         "last name":"Võ Văn",
         "birthday":"",
-        "avatar":"/avatar/male-1.svg"
+        "avatar":"/avatar/male-2.svg"
      },
      "rels":{
         "children":[
-           "luuvoduc",
-           "yenvothi",
-           "hienvovan1",
-           "phongvovan",
-           "toanvothi",
-           "haovovan",
-           "hienvovan1"
+           "huyvoquoc",
+           "hoangvoquoc",
+           "hungvoquoc",
+           "bevothi",
+           "hungvoquoc1"
         ],
         "spouses":[
-           "danh"
+           "niem"
         ],
-        "father":"suvovan",
-        "mother":""
+        "father":"nghiemvovan",
+        "mother":"danh"
      }
   },
   {
@@ -237,10 +237,33 @@
         "avatar":"/avatar/male-3.svg"
      },
      "rels":{
-        "children":null,
-        "spouses":null,
+        "children":[
+           "dienvovan",
+           "quocvo"
+        ],
+        "spouses":[
+           "phongwife"
+        ],
         "father":"nghiemvovan",
         "mother":"danh"
+     }
+  },
+  {
+     "id":"dienvovan",
+     "data":{
+        "gender":"M",
+        "first name":"Điền",
+        "last name":"Võ Văn",
+        "birthday":"",
+        "avatar":"/avatar/male-1.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "ro"
+        ],
+        "father":"phongvovan",
+        "mother":"phongwife"
      }
   },
   {
@@ -265,27 +288,45 @@
      }
   },
   {
-     "id":"haovovan",
+     "id":"nghiemvovan",
      "data":{
         "gender":"M",
-        "first name":"Hảo",
+        "first name":"Nghiêm",
         "last name":"Võ Văn",
         "birthday":"",
         "avatar":"/avatar/male-1.svg"
      },
      "rels":{
         "children":[
-           "hangvothi",
-           "tamvothanh",
-           "quyetvothanh",
-           "chienvothanh",
-           "khuyenvothihong"
+           "luuvoduc",
+           "yenvothi",
+           "hienvovan",
+           "phongvovan",
+           "toanvothi",
+           "haovovan",
+           "hienvovan1"
         ],
         "spouses":[
-           "nguyet"
+           "danh"
         ],
-        "father":"nghiemvovan",
-        "mother":"danh"
+        "father":"suvovan",
+        "mother":""
+     }
+  },
+  {
+     "id":"nhatvovan",
+     "data":{
+        "gender":"M",
+        "first name":"Nhật",
+        "last name":"Võ Văn",
+        "birthday":"1991",
+        "avatar":"/avatar/nhatvv.jpeg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":null,
+        "father":"namvoduc",
+        "mother":"honghoangthi"
      }
   },
   {
@@ -305,41 +346,25 @@
      }
   },
   {
-     "id":"hienvovan1",
+     "id":"haovovan",
      "data":{
         "gender":"M",
-        "first name":"Hiền",
+        "first name":"Hảo",
         "last name":"Võ Văn",
         "birthday":"",
-        "avatar":"/avatar/male-2.svg"
+        "avatar":"/avatar/male-1.svg"
      },
      "rels":{
         "children":[
-           "huyvoquoc",
-           "hoangvoquoc",
-           "hungvoquoc1",
-           "bevothi",
-           "hungvoquoc1"
+           "hangvothi",
+           "tamvothanh",
+           "quyetvothanh",
+           "chienvothanh",
+           "khuyenvothihong"
         ],
         "spouses":[
-           "niem"
+           "nguyet"
         ],
-        "father":"nghiemvovan",
-        "mother":"danh"
-     }
-  },
-  {
-     "id":"hienvovan1",
-     "data":{
-        "gender":"M",
-        "first name":"Hiến",
-        "last name":"Võ Văn",
-        "birthday":"",
-        "avatar":"/avatar/male-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":null,
         "father":"nghiemvovan",
         "mother":"danh"
      }
@@ -399,6 +424,22 @@
      }
   },
   {
+     "id":"nhungvothihong",
+     "data":{
+        "gender":"F",
+        "first name":"Nhung",
+        "last name":"Võ Thị Hồng",
+        "birthday":"2001",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":null,
+        "father":"thongvohuu",
+        "mother":"yentranthi"
+     }
+  },
+  {
      "id":"khuyenvothihong",
      "data":{
         "gender":"F",
@@ -414,22 +455,6 @@
         ],
         "father":"haovovan",
         "mother":"nguyet"
-     }
-  },
-  {
-     "id":"nhungvothihong",
-     "data":{
-        "gender":"F",
-        "first name":"Nhung",
-        "last name":"Võ Thị Hồng",
-        "birthday":"2001",
-        "avatar":"/avatar/female-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":null,
-        "father":"thongvohuu",
-        "mother":"yentranthi"
      }
   },
   {
@@ -469,6 +494,69 @@
      }
   },
   {
+     "id":"levothi",
+     "data":{
+        "gender":"F",
+        "first name":"Lệ",
+        "last name":"Võ Thị",
+        "birthday":"1992",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":[
+           "nganthao",
+           "vythao"
+        ],
+        "spouses":[
+           "quy"
+        ],
+        "father":"namvoduc",
+        "mother":"honghoangthi"
+     }
+  },
+  {
+     "id":"thuongvothi",
+     "data":{
+        "gender":"F",
+        "first name":"Thương",
+        "last name":"Võ Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-1.svg"
+     },
+     "rels":{
+        "children":[
+           "trinhlethituyet",
+           "donlequy",
+           "tienlethimy"
+        ],
+        "spouses":[
+           "toanlevan"
+        ],
+        "father":"luuvoduc",
+        "mother":"ngotduongthi"
+     }
+  },
+  {
+     "id":"hoavothi1",
+     "data":{
+        "gender":"F",
+        "first name":"Hòa",
+        "last name":"Võ Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-1.svg"
+     },
+     "rels":{
+        "children":[
+           "tuannguyenanh"
+        ],
+        "spouses":[
+           "cuongnguyenvan"
+        ],
+        "father":"luuvoduc",
+        "mother":"loan"
+     }
+  },
+  {
      "id":"bacvothi",
      "data":{
         "gender":"F",
@@ -493,25 +581,23 @@
      }
   },
   {
-     "id":"thuongvothi",
+     "id":"hoavothi",
      "data":{
         "gender":"F",
-        "first name":"Thương",
+        "first name":"Hoa",
         "last name":"Võ Thị",
         "birthday":"",
-        "avatar":"/avatar/female-1.svg"
+        "avatar":"/avatar/female-2.svg"
      },
      "rels":{
         "children":[
-           "trinhlethituyet",
-           "donlequy",
-           "tienlethimy"
+           "huy"
         ],
         "spouses":[
-           "toanlevan"
+           "hoahusband"
         ],
         "father":"luuvoduc",
-        "mother":"ngotduongthi"
+        "mother":"loan"
      }
   },
   {
@@ -551,68 +637,7 @@
            "hoathaivan"
         ],
         "father":"namvoduc",
-        "mother":"hong(bieu)hoangthi"
-     }
-  },
-  {
-     "id":"levothi",
-     "data":{
-        "gender":"F",
-        "first name":"Lệ",
-        "last name":"Võ Thị",
-        "birthday":"1992",
-        "avatar":"/avatar/female-2.svg"
-     },
-     "rels":{
-        "children":[
-           "nganthao",
-           "vythao"
-        ],
-        "spouses":[
-           "quy"
-        ],
-        "father":"namvoduc",
-        "mother":"hong(bieu)hoangthi"
-     }
-  },
-  {
-     "id":"hoavothi1",
-     "data":{
-        "gender":"F",
-        "first name":"Hòa",
-        "last name":"Võ Thị",
-        "birthday":"",
-        "avatar":"/avatar/female-1.svg"
-     },
-     "rels":{
-        "children":[
-           "tuannguyenanh"
-        ],
-        "spouses":[
-           "cuongnguyenvan"
-        ],
-        "father":"luuvoduc",
-        "mother":"loan"
-     }
-  },
-  {
-     "id":"hoavothi1",
-     "data":{
-        "gender":"F",
-        "first name":"Hoa",
-        "last name":"Võ Thị",
-        "birthday":"",
-        "avatar":"/avatar/female-2.svg"
-     },
-     "rels":{
-        "children":[
-           "huy"
-        ],
-        "spouses":[
-           "19acc585-0639-4fe4-a227-a0787936d4b6"
-        ],
-        "father":"luuvoduc",
-        "mother":"loan"
+        "mother":"honghoangthi"
      }
   },
   {
@@ -625,48 +650,34 @@
         "avatar":"/avatar/female-2.svg"
      },
      "rels":{
-        "children":null,
+        "children":[
+           "lapnguyenvan",
+           "giaonguyenvan",
+           "saunguyenthi",
+           "huunguyenvan",
+           "baynguyenthi"
+        ],
         "spouses":[
-           "santruong"
+           "sannguyen"
         ],
         "father":"nghiemvovan",
         "mother":"danh"
      }
   },
   {
-     "id":"hangvothi",
+     "id":"toanvothi",
      "data":{
         "gender":"F",
-        "first name":"Hằng",
+        "first name":"Toàn",
         "last name":"Võ Thị",
         "birthday":"",
-        "avatar":"/avatar/female-2.svg"
+        "avatar":"/avatar/female-3.svg"
      },
      "rels":{
         "children":null,
-        "spouses":[
-           "muoi"
-        ],
-        "father":"haovovan",
-        "mother":"nguyet"
-     }
-  },
-  {
-     "id":"bevothi",
-     "data":{
-        "gender":"F",
-        "first name":"Bé",
-        "last name":"Võ Thị",
-        "birthday":"",
-        "avatar":"/avatar/female-1.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "6439b408-3d5b-4b36-8953-a8525830439e"
-        ],
-        "father":"hienvovan1",
-        "mother":"niem"
+        "spouses":null,
+        "father":"nghiemvovan",
+        "mother":"danh"
      }
   },
   {
@@ -688,52 +699,36 @@
      }
   },
   {
-     "id":"toanvothi",
+     "id":"bevothi",
      "data":{
         "gender":"F",
-        "first name":"Toàn",
+        "first name":"Bé",
         "last name":"Võ Thị",
         "birthday":"",
-        "avatar":"/avatar/female-3.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":null,
-        "father":"nghiemvovan",
-        "mother":"danh"
-     }
-  },
-  {
-     "id":"chienvothanh",
-     "data":{
-        "gender":"M",
-        "first name":"Chiến",
-        "last name":"Võ Thanh",
-        "birthday":"",
-        "avatar":"/avatar/male-1.svg"
+        "avatar":"/avatar/female-1.svg"
      },
      "rels":{
         "children":null,
         "spouses":[
-           "chaule"
+           "behienhusband"
         ],
-        "father":"haovovan",
-        "mother":"nguyet"
+        "father":"hienvovan1",
+        "mother":"niem"
      }
   },
   {
-     "id":"quyetvothanh",
+     "id":"hangvothi",
      "data":{
-        "gender":"M",
-        "first name":"Quyết",
-        "last name":"Võ Thanh",
+        "gender":"F",
+        "first name":"Hằng",
+        "last name":"Võ Thị",
         "birthday":"",
-        "avatar":"/avatar/male-3.svg"
+        "avatar":"/avatar/female-2.svg"
      },
      "rels":{
         "children":null,
         "spouses":[
-           "nguyetbuianh"
+           "muoi"
         ],
         "father":"haovovan",
         "mother":"nguyet"
@@ -779,6 +774,42 @@
      }
   },
   {
+     "id":"chienvothanh",
+     "data":{
+        "gender":"M",
+        "first name":"Chiến",
+        "last name":"Võ Thanh",
+        "birthday":"",
+        "avatar":"/avatar/male-1.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "chaule"
+        ],
+        "father":"haovovan",
+        "mother":"nguyet"
+     }
+  },
+  {
+     "id":"quyetvothanh",
+     "data":{
+        "gender":"M",
+        "first name":"Quyết",
+        "last name":"Võ Thanh",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "nguyetbuianh"
+        ],
+        "father":"haovovan",
+        "mother":"nguyet"
+     }
+  },
+  {
      "id":"bunvosihong",
      "data":{
         "gender":"M",
@@ -818,42 +849,6 @@
      }
   },
   {
-     "id":"hungvoquoc1",
-     "data":{
-        "gender":"M",
-        "first name":"Hưng",
-        "last name":"Võ Quốc",
-        "birthday":"",
-        "avatar":"/avatar/male-3.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "43778010-e026-46fe-8e68-2c29941e39bf"
-        ],
-        "father":"hienvovan1",
-        "mother":"niem"
-     }
-  },
-  {
-     "id":"hungvoquoc1",
-     "data":{
-        "gender":"M",
-        "first name":"Hùng",
-        "last name":"Võ Quốc",
-        "birthday":"",
-        "avatar":"/avatar/male-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "xuan"
-        ],
-        "father":"hienvovan1",
-        "mother":"niem"
-     }
-  },
-  {
      "id":"huyvoquoc",
      "data":{
         "gender":"M",
@@ -865,7 +860,7 @@
      "rels":{
         "children":null,
         "spouses":[
-           "31237ade-8ed7-4451-9e1d-db844ffb6c0d"
+           "huywife"
         ],
         "father":"hienvovan1",
         "mother":"niem"
@@ -883,7 +878,43 @@
      "rels":{
         "children":null,
         "spouses":[
-           "c5f73170-dd29-4150-8dfa-cee779a6d085"
+           "hoangwife"
+        ],
+        "father":"hienvovan1",
+        "mother":"niem"
+     }
+  },
+  {
+     "id":"hungvoquoc1",
+     "data":{
+        "gender":"M",
+        "first name":"Hưng",
+        "last name":"Võ Quốc",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "hung1wife"
+        ],
+        "father":"hienvovan1",
+        "mother":"niem"
+     }
+  },
+  {
+     "id":"hungvoquoc",
+     "data":{
+        "gender":"M",
+        "first name":"Hùng",
+        "last name":"Võ Quốc",
+        "birthday":"",
+        "avatar":"/avatar/male-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "xuan"
         ],
         "father":"hienvovan1",
         "mother":"niem"
@@ -959,6 +990,24 @@
      }
   },
   {
+     "id":"quocvo",
+     "data":{
+        "gender":"M",
+        "first name":"Quốc",
+        "last name":"Võ",
+        "birthday":"",
+        "avatar":"/avatar/male-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "tinh"
+        ],
+        "father":"phongvovan",
+        "mother":"phongwife"
+     }
+  },
+  {
      "id":"duongtranvan",
      "data":{
         "gender":"F",
@@ -1024,7 +1073,7 @@
      "rels":{
         "children":null,
         "spouses":[
-           "6a430aa1-d852-4cfe-8227-4bd789238897"
+           "phonghusband"
         ],
         "father":"dongvothi",
         "mother":"duongtranvan"
@@ -1052,7 +1101,7 @@
      }
   },
   {
-     "id":"santruong",
+     "id":"sannguyen",
      "data":{
         "gender":"M",
         "first name":"San",
@@ -1061,7 +1110,13 @@
         "avatar":"/avatar/male-3.svg"
      },
      "rels":{
-        "children":null,
+        "children":[
+           "lapnguyenvan",
+           "giaonguyenvan",
+           "saunguyenthi",
+           "huunguyenvan",
+           "baynguyenthi"
+        ],
         "spouses":[
            "yenvothi"
         ],
@@ -1140,6 +1195,24 @@
      }
   },
   {
+     "id":"giaonguyenvan",
+     "data":{
+        "gender":"M",
+        "first name":"Giao",
+        "last name":"Nguyễn Văn",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "lien"
+        ],
+        "father":"sannguyen",
+        "mother":"yenvothi"
+     }
+  },
+  {
      "id":"cuongnguyenvan",
      "data":{
         "gender":"M",
@@ -1160,6 +1233,78 @@
      }
   },
   {
+     "id":"lapnguyenvan",
+     "data":{
+        "gender":"M",
+        "first name":"Lập",
+        "last name":"Nguyễn Văn",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "qua"
+        ],
+        "father":"sannguyen",
+        "mother":"yenvothi"
+     }
+  },
+  {
+     "id":"huunguyenvan",
+     "data":{
+        "gender":"M",
+        "first name":"Hữu",
+        "last name":"Nguyễn Văn",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "tubuithi"
+        ],
+        "father":"sannguyen",
+        "mother":"yenvothi"
+     }
+  },
+  {
+     "id":"baynguyenthi",
+     "data":{
+        "gender":"F",
+        "first name":"Bảy",
+        "last name":"Nguyễn Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-1.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "bayhusband"
+        ],
+        "father":"sannguyen",
+        "mother":"yenvothi"
+     }
+  },
+  {
+     "id":"saunguyenthi",
+     "data":{
+        "gender":"F",
+        "first name":"Sáu",
+        "last name":"Nguyễn Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "hien"
+        ],
+        "father":"sannguyen",
+        "mother":"yenvothi"
+     }
+  },
+  {
      "id":"tuannguyenanh",
      "data":{
         "gender":"M",
@@ -1171,7 +1316,7 @@
      "rels":{
         "children":null,
         "spouses":[
-           "43a5cb4c-227b-4d45-998d-b926e106d5f6"
+           "tuanwife"
         ],
         "father":"cuongnguyenvan",
         "mother":"hoavothi1"
@@ -1214,6 +1359,24 @@
      }
   },
   {
+     "id":"phunglexuan",
+     "data":{
+        "gender":"M",
+        "first name":"Phùng",
+        "last name":"Lê Xuân",
+        "birthday":"1992",
+        "avatar":"/avatar/male-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "phungwife"
+        ],
+        "father":"bacvothi",
+        "mother":"coilevan"
+     }
+  },
+  {
      "id":"tunglexuan",
      "data":{
         "gender":"M",
@@ -1227,46 +1390,6 @@
         "spouses":null,
         "father":"bacvothi",
         "mother":"coilevan"
-     }
-  },
-  {
-     "id":"phunglexuan",
-     "data":{
-        "gender":"M",
-        "first name":"Phùng",
-        "last name":"Lê Xuân",
-        "birthday":"1992",
-        "avatar":"/avatar/male-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "cf11fe7e-c10f-4e77-b4dc-886679983dc9"
-        ],
-        "father":"bacvothi",
-        "mother":"coilevan"
-     }
-  },
-  {
-     "id":"toanlevan",
-     "data":{
-        "gender":"M",
-        "first name":"Toản",
-        "last name":"Lê Văn",
-        "birthday":"",
-        "avatar":"/avatar/male-3.svg"
-     },
-     "rels":{
-        "children":[
-           "trinhlethituyet",
-           "donlequy",
-           "tienlethimy"
-        ],
-        "spouses":[
-           "thuongvothi"
-        ],
-        "father":"",
-        "mother":""
      }
   },
   {
@@ -1288,6 +1411,28 @@
         ],
         "spouses":[
            "bacvothi"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"toanlevan",
+     "data":{
+        "gender":"M",
+        "first name":"Toản",
+        "last name":"Lê Văn",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":[
+           "trinhlethituyet",
+           "donlequy",
+           "tienlethimy"
+        ],
+        "spouses":[
+           "thuongvothi"
         ],
         "father":"",
         "mother":""
@@ -1346,6 +1491,42 @@
      }
   },
   {
+     "id":"halethi",
+     "data":{
+        "gender":"F",
+        "first name":"Hà",
+        "last name":"Lê Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "co"
+        ],
+        "father":"bacvothi",
+        "mother":"coilevan"
+     }
+  },
+  {
+     "id":"nhunglethi",
+     "data":{
+        "gender":"F",
+        "first name":"Nhung",
+        "last name":"Lê Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "nhunghusband"
+        ],
+        "father":"bacvothi",
+        "mother":"coilevan"
+     }
+  },
+  {
      "id":"thiulethi",
      "data":{
         "gender":"F",
@@ -1388,42 +1569,6 @@
         ],
         "father":"",
         "mother":""
-     }
-  },
-  {
-     "id":"halethi",
-     "data":{
-        "gender":"F",
-        "first name":"Hà",
-        "last name":"Lê Thị",
-        "birthday":"",
-        "avatar":"/avatar/female-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "co"
-        ],
-        "father":"bacvothi",
-        "mother":"coilevan"
-     }
-  },
-  {
-     "id":"nhunglethi",
-     "data":{
-        "gender":"F",
-        "first name":"Nhung",
-        "last name":"Lê Thị",
-        "birthday":"",
-        "avatar":"/avatar/female-3.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "6978a805-bb41-41f4-a3a7-839b434d4fe5"
-        ],
-        "father":"bacvothi",
-        "mother":"coilevan"
      }
   },
   {
@@ -1500,7 +1645,7 @@
      }
   },
   {
-     "id":"hong(bieu)hoangthi",
+     "id":"honghoangthi",
      "data":{
         "gender":"F",
         "first name":"Hồng (Biểu)",
@@ -1522,24 +1667,6 @@
      }
   },
   {
-     "id":"tuhoang",
-     "data":{
-        "gender":"M",
-        "first name":"Tú",
-        "last name":"Hoàng",
-        "birthday":"",
-        "avatar":"/avatar/male-2.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "thanhvothihoai"
-        ],
-        "father":"",
-        "mother":""
-     }
-  },
-  {
      "id":"sanghoang",
      "data":{
         "gender":"F",
@@ -1552,6 +1679,24 @@
         "children":null,
         "spouses":[
            "khanhvoduc"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"tuhoang",
+     "data":{
+        "gender":"M",
+        "first name":"Tú",
+        "last name":"Hoàng",
+        "birthday":"",
+        "avatar":"/avatar/male-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "thanhvothihoai"
         ],
         "father":"",
         "mother":""
@@ -1602,6 +1747,24 @@
      }
   },
   {
+     "id":"tubuithi",
+     "data":{
+        "gender":"F",
+        "first name":"Tư",
+        "last name":"Bùi Thị",
+        "birthday":"",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "huunguyenvan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
      "id":"chieubuibao",
      "data":{
         "gender":"M",
@@ -1622,49 +1785,7 @@
      }
   },
   {
-     "id":"nhan",
-     "data":{
-        "gender":"M",
-        "first name":"Nhân",
-        "last name":"",
-        "birthday":"",
-        "avatar":"/avatar/male-1.svg"
-     },
-     "rels":{
-        "children":null,
-        "spouses":[
-           "suongvothihoai"
-        ],
-        "father":"",
-        "mother":""
-     }
-  },
-  {
-     "id":"the",
-     "data":{
-        "gender":"F",
-        "first name":"Thê",
-        "last name":"",
-        "birthday":"",
-        "avatar":"/avatar/female-2.svg"
-     },
-     "rels":{
-        "children":[
-           "duyvoduc",
-           "khanhvoduc",
-           "sonvoduc",
-           "xoavothi",
-           "xuanvoduc"
-        ],
-        "spouses":[
-           "cuvoduc"
-        ],
-        "father":"",
-        "mother":""
-     }
-  },
-  {
-     "id":"cf11fe7e-c10f-4e77-b4dc-886679983dc9",
+     "id":"hienwife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -1673,18 +1794,16 @@
         "avatar":"/avatar/female-2.svg"
      },
      "rels":{
-        "children":[
-           
-        ],
+        "children":null,
         "spouses":[
-           "phunglexuan"
+           "hienvovan"
         ],
         "father":"",
         "mother":""
      }
   },
   {
-     "id":"43778010-e026-46fe-8e68-2c29941e39bf",
+     "id":"hung1wife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -1704,7 +1823,7 @@
      }
   },
   {
-     "id":"6439b408-3d5b-4b36-8953-a8525830439e",
+     "id":"behienhusband",
      "data":{
         "gender":"M",
         "first name":"-",
@@ -1760,10 +1879,10 @@
      }
   },
   {
-     "id":"19acc585-0639-4fe4-a227-a0787936d4b6",
+     "id":"hoahusband",
      "data":{
         "gender":"M",
-        "first name":"",
+        "first name":"-",
         "last name":"",
         "birthday":"",
         "avatar":"/avatar/male-1.svg"
@@ -1773,14 +1892,14 @@
            "huy"
         ],
         "spouses":[
-           "hoavothi1"
+           "hoavothi"
         ],
         "father":"",
         "mother":""
      }
   },
   {
-     "id":"b483cfb8-131c-4c9a-8502-6abf17b63efd",
+     "id":"huy2wife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -1812,7 +1931,7 @@
         "children":[
            "luuvoduc",
            "yenvothi",
-           "hienvovan1",
+           "hienvovan",
            "phongvovan",
            "toanvothi",
            "haovovan",
@@ -1876,14 +1995,14 @@
      "rels":{
         "children":null,
         "spouses":[
-           "b483cfb8-131c-4c9a-8502-6abf17b63efd"
+           "huy2wife"
         ],
-        "father":"19acc585-0639-4fe4-a227-a0787936d4b6",
-        "mother":"hoavothi1"
+        "father":"hoahusband",
+        "mother":"hoavothi"
      }
   },
   {
-     "id":"43a5cb4c-227b-4d45-998d-b926e106d5f6",
+     "id":"tuanwife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -1933,7 +2052,7 @@
         "children":[
            "huyvoquoc",
            "hoangvoquoc",
-           "hungvoquoc1",
+           "hungvoquoc",
            "bevothi",
            "hungvoquoc1"
         ],
@@ -1969,7 +2088,7 @@
      }
   },
   {
-     "id":"6a430aa1-d852-4cfe-8227-4bd789238897",
+     "id":"phonghusband",
      "data":{
         "gender":"M",
         "first name":"-",
@@ -1989,7 +2108,7 @@
      }
   },
   {
-     "id":"c5f73170-dd29-4150-8dfa-cee779a6d085",
+     "id":"hoangwife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -2022,7 +2141,7 @@
            
         ],
         "spouses":[
-           "hungvoquoc1"
+           "hungvoquoc"
         ],
         "father":"",
         "mother":""
@@ -2047,7 +2166,7 @@
      }
   },
   {
-     "id":"31237ade-8ed7-4451-9e1d-db844ffb6c0d",
+     "id":"huywife",
      "data":{
         "gender":"F",
         "first name":"-",
@@ -2095,7 +2214,7 @@
      },
      "rels":{
         "children":[
-           "hoavothi1",
+           "hoavothi",
            "hoavothi1",
            "thuanvoduc"
         ],
@@ -2107,7 +2226,7 @@
      }
   },
   {
-     "id":"6978a805-bb41-41f4-a3a7-839b434d4fe5",
+     "id":"nhunghusband",
      "data":{
         "gender":"M",
         "first name":"-",
@@ -2121,6 +2240,197 @@
         ],
         "spouses":[
            "nhunglethi"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"ro",
+     "data":{
+        "gender":"F",
+        "first name":"Rô",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-1.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "dienvovan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"qua",
+     "data":{
+        "gender":"F",
+        "first name":"Quả",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "lapnguyenvan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"phungwife",
+     "data":{
+        "gender":"F",
+        "first name":"-",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":[
+           
+        ],
+        "spouses":[
+           "phunglexuan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"lien",
+     "data":{
+        "gender":"F",
+        "first name":"Liên",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "giaonguyenvan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"the",
+     "data":{
+        "gender":"F",
+        "first name":"Thê",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":[
+           "duyvoduc",
+           "khanhvoduc",
+           "sonvoduc",
+           "xoavothi",
+           "xuanvoduc"
+        ],
+        "spouses":[
+           "cuvoduc"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"nhan",
+     "data":{
+        "gender":"M",
+        "first name":"Nhân",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/male-1.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "suongvothihoai"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"tinh",
+     "data":{
+        "gender":"F",
+        "first name":"Tình",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "quocvo"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"hien",
+     "data":{
+        "gender":"M",
+        "first name":"Hiền",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/male-3.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "saunguyenthi"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"phongwife",
+     "data":{
+        "gender":"F",
+        "first name":"-",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/female-3.svg"
+     },
+     "rels":{
+        "children":[
+           "dienvovan",
+           "quocvo"
+        ],
+        "spouses":[
+           "phongvovan"
+        ],
+        "father":"",
+        "mother":""
+     }
+  },
+  {
+     "id":"bayhusband",
+     "data":{
+        "gender":"M",
+        "first name":"-",
+        "last name":"",
+        "birthday":"",
+        "avatar":"/avatar/male-2.svg"
+     },
+     "rels":{
+        "children":null,
+        "spouses":[
+           "baynguyenthi"
         ],
         "father":"",
         "mother":""
