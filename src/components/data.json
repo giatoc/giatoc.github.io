@@ -22,11 +22,11 @@
            "thongvohuu"
         ],
         "spouses":[
-           "loan",
+           "loantranthi",
            "ngotduongthi"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -66,7 +66,7 @@
            "senlethi"
         ],
         "father":"luuvoduc",
-        "mother":"loan"
+        "mother":"loantranthi"
      }
   },
   {
@@ -200,7 +200,7 @@
            "hienwife"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -224,7 +224,7 @@
            "niem"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -245,7 +245,7 @@
            "phongwife"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -293,7 +293,7 @@
         "gender":"M",
         "first name":"Nghiêm",
         "last name":"Võ Văn",
-        "birthday":"",
+        "birthday":"1907-1979",
         "avatar":"/avatar/male-1.svg"
      },
      "rels":{
@@ -307,7 +307,7 @@
            "hienvovan1"
         ],
         "spouses":[
-           "danh"
+           "danhnguyenthi"
         ],
         "father":"suvovan",
         "mother":""
@@ -366,7 +366,7 @@
            "nguyet"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -508,7 +508,7 @@
            "vythao"
         ],
         "spouses":[
-           "quy"
+           "quyhoang"
         ],
         "father":"namvoduc",
         "mother":"honghoangthi"
@@ -553,7 +553,7 @@
            "hoa1husband"
         ],
         "father":"luuvoduc",
-        "mother":"loan"
+        "mother":"loantranthi"
      }
   },
   {
@@ -597,7 +597,7 @@
            "hoahusband"
         ],
         "father":"luuvoduc",
-        "mother":"loan"
+        "mother":"loantranthi"
      }
   },
   {
@@ -661,7 +661,7 @@
            "sannguyen"
         ],
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -677,7 +677,7 @@
         "children":null,
         "spouses":null,
         "father":"nghiemvovan",
-        "mother":"danh"
+        "mother":"danhnguyenthi"
      }
   },
   {
@@ -1136,7 +1136,7 @@
      "rels":{
         "children":null,
         "spouses":null,
-        "father":"quy",
+        "father":"quyhoang",
         "mother":"levothi"
      }
   },
@@ -1152,7 +1152,7 @@
      "rels":{
         "children":null,
         "spouses":null,
-        "father":"quy",
+        "father":"quyhoang",
         "mother":"levothi"
      }
   },
@@ -1919,12 +1919,12 @@
      }
   },
   {
-     "id":"danh",
+     "id":"danhnguyenthi",
      "data":{
         "gender":"F",
-        "first name":"Dảnh",
-        "last name":"",
-        "birthday":"",
+        "first name":"Dãnh",
+        "last name":"Nguyễn Thị",
+        "birthday":"1909-1996",
         "avatar":"/avatar/female-1.svg"
      },
      "rels":{
@@ -1963,11 +1963,11 @@
      }
   },
   {
-     "id":"quy",
+     "id":"quyhoang",
      "data":{
         "gender":"M",
         "first name":"Quý",
-        "last name":"",
+        "last name":"Hoàng",
         "birthday":"1990",
         "avatar":"/avatar/male-2.svg"
      },
@@ -2204,12 +2204,12 @@
      }
   },
   {
-     "id":"loan",
+     "id":"loantranthi",
      "data":{
         "gender":"F",
         "first name":"Loan",
-        "last name":"",
-        "birthday":"",
+        "last name":"Trần Thị",
+        "birthday":"1930-2015",
         "avatar":"/avatar/female-1.svg"
      },
      "rels":{
